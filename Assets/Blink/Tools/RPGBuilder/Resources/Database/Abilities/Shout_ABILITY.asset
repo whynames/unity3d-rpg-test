@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 943d49eb769cd944fade3a1cd7491609, type: 3}
+  m_Name: Shout_ABILITY
+  m_EditorClassIdentifier: 
+  ID: 2
+  entryName: Shout
+  entryFileName: Shout_ABILITY
+  entryDisplayName: Shout
+  entryIcon: {fileID: 21300000, guid: 17d639ac586cb444ea583e80715898f4, type: 3}
+  entryDescription: 
+  _name: 
+  _fileName: 
+  displayName: 
+  icon: {fileID: 0}
+  learnedByDefault: 1
+  abilityType: 0
+  ranks:
+  - ShowedInEditor: 1
+    unlockCost: 0
+    TooltipText: Increase lifesteal by 25% and damage dealt by 50%.
+    activationType: 0
+    castTime: 0
+    castInRun: 0
+    castBarVisible: 1
+    faceCursorWhileCasting: 1
+    faceCursorWhenOnCastStart: 1
+    faceCursorWhenOnCastEnd: 1
+    canBeUsedStunned: 0
+    animationTriggered: 0
+    comboStarsAfterCastComplete: 0
+    cancelStealth: 0
+    canUseWhileMounted: 0
+    Requirements: []
+    UseRequirementsTemplate: 0
+    RequirementsTemplate: {fileID: 0}
+    targetType: 0
+    isToggle: 0
+    isToggleCostOnTrigger: 0
+    toggledTriggerInterval: 0
+    MaxUnitHit: 1
+    minRange: 0
+    maxRange: 0
+    standTimeDuration: 0
+    canRotateInStandTime: 0
+    castSpeedSlowAmount: 0.5
+    castSpeedSlowTime: 0.4
+    castSpeedSlowRate: 0.5
+    AIAttackTime: 1
+    coneDegree: 0
+    ConeHitCount: 1
+    ConeHitInterval: 0
+    AOERadius: 0
+    AOEHitCount: 1
+    AOEHitInterval: 0
+    linearWidth: 0
+    linearHeight: 0
+    linearLength: 0
+    projectileSpeed: 0
+    projectileDistance: 0
+    projectileAngleSpread: 0
+    projectileCount: 1
+    firstProjectileDelay: 0
+    projectileDelay: 0
+    projectileDuration: 5
+    projectileComeBackTime: 0
+    projectileComeBackSpeed: 0
+    isProjectileComeBack: 0
+    projectileNearbyUnitDistanceMax: 0
+    projectileNearbyUnitMaxHit: 0
+    isProjectileNearbyUnit: 0
+    projectileDestroyedByEnvironment: 1
+    projectileDestroyLayers:
+      serializedVersion: 2
+      m_Bits: 0
+    projectileAffectedByGravity: 0
+    projectileShootOnClickPosition: 0
+    projectileDistanceMaxForNPC: 50
+    mustLookAtTarget: 1
+    squareWidth: 0
+    squareLength: 0
+    squareHeight: 0
+    groundRadius: 0
+    groundRange: 0
+    groundHitTime: 0
+    groundHitCount: 1
+    groundHitInterval: 0
+    CanHitPlayer: 0
+    CanHitAlly: 0
+    CanHitNeutral: 1
+    CanHitEnemy: 1
+    CanHitSelf: 0
+    CanHitPet: 0
+    CanHitOwner: 0
+    UsedOnALly: 0
+    LookAtTargetDuringCombatAction: 0
+    LookAtTargetOnCombatAction: 0
+    projectileEffect: {fileID: 0}
+    projectileSocketName: 
+    projectileTargetSocketName: 
+    projectileNodeSocket: {fileID: 0}
+    projectileTargetNodeSocket: {fileID: 0}
+    projectileUseNodeSocket: 0
+    projectileTargetUseNodeSocket: 0
+    projectileParentedToCaster: 0
+    projectileSound: {fileID: 0}
+    projectileSoundTemplate: {fileID: 0}
+    projectileSoundParentedToEffect: 0
+    useCustomCollision: 0
+    projectileColliderType: 0
+    colliderCenter: {x: 0, y: 0, z: 0}
+    colliderSize: {x: 0, y: 0, z: 0}
+    colliderRadius: 0
+    colliderHeight: 0
+    groundVisualEffect: {fileID: 0}
+    effectPositionOffset: {x: 0, y: 0, z: 0}
+    groundVisualEffectDuration: 5
+    hitEffectUseSocket: 0
+    hitEffect: {fileID: 0}
+    hitEffectDuration: 0
+    hitEffectSocketName: 
+    hitEffectNodeSocket: {fileID: 0}
+    hitEffectPositionOffset: {x: 0, y: 0, z: 0}
+    hitAttachedToNode: 0
+    channelTime: 0
+    groundLeapDuration: 0
+    groundLeapHeight: 0
+    groundLeapSpeed: 0
+    groundLeapBlockLayers:
+      serializedVersion: 2
+      m_Bits: 0
+    isAttackSpeedCooldown: 0
+    isAttackSpeedGCD: 0
+    cooldown: 30
+    isGCD: 0
+    startCDOnActivate: 1
+    CanUseDuringGCD: 0
+    isSharingCooldown: 0
+    cooldownTag: 
+    abilityCooldownTag: {fileID: 0}
+    effectsApplied:
+    - effectID: 3
+      chance: 100
+      effectRank: 0
+      target: 0
+      isSpread: 0
+      spreadDistanceMax: 0
+      spreadUnitMax: 0
+      delay: 0
+      tooltipText: 
+    casterEffectsApplied: []
+    Actions: []
+    VisualEffectEntries: []
+    AnimationEntries:
+    - Template: {fileID: 11400000, guid: 6c3e3c7f474255e4ca19d48ab0b4a68b, type: 2}
+      ActivationType: 0
+      Delay: 0
+      ShowWeapons: 1
+      ShowWeaponsDuration: 1
+      ModifySpeed: 0
+      SpeedParameterName: AttackAnimationsSpeed
+      ModifierSpeed: 1
+    SoundEntries:
+    - Template: {fileID: 11400000, guid: 8ceb1d9178316e9428fddc9fc6b9c407, type: 2}
+      ActivationType: 0
+      Delay: 0
+      Parented: 0
+    visualEffects: []
+    visualAnimations: []
+    tagsData: []
+    extraAbilityExecutedID: 0
+    extraAbilityExecutedActivationType: 0

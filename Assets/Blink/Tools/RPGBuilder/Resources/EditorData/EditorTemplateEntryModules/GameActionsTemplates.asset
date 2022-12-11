@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 168df64561bda6f4fa2585c6d27efd7c, type: 3}
+  m_Name: GameActionsTemplates
+  m_EditorClassIdentifier: 
+  ModuleName: Game Actions
+  EntryType: GameActions
+  TypeName: GameActionsTemplate
+  AssetFolderName: GameActionsTemplates
+  AssetNameSuffix: _GAME_ACTIONS
+  OldFolderName: 
+  IDFileName: 
+  OldIDFileName: 
+  DocumentationLink: https://blink.developerhub.io/rpg-builder/game-action-templates
+  IsSettingModule: 0
+  IsTypeModule: 1
+  IsEnabled: 1
+  ShowIconInList: 0
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: 
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 1
+  ShowFiltersButton: 0
+  databaseEntries:
+  - {fileID: 11400000, guid: 03268c13dfafa6b44a881933551d74c2, type: 2}
+  - {fileID: 11400000, guid: c46d801b1587c3444a9b1ff9f1b93b0b, type: 2}
+  - {fileID: 11400000, guid: 703fe6aacc1c61045b5a0a75ccce568e, type: 2}
+  - {fileID: 11400000, guid: 8f40faad69e3f42409a4f71b7d99fdc1, type: 2}
+  - {fileID: 11400000, guid: 422b18b2d8c18de4db483f39f979d74c, type: 2}
+  - {fileID: 11400000, guid: b075d66448e44004e8ce78f539c026e0, type: 2}

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac33cb539e48ed444ad0d2717cec4796, type: 3}
+  m_Name: World_Settings
+  m_EditorClassIdentifier: 
+  ID: -1
+  entryName: 
+  entryFileName: 
+  entryDisplayName: 
+  entryIcon: {fileID: 0}
+  entryDescription: 
+  dialogueKeywordsList:
+  - '[player_level]'
+  - '[player_name]'
+  useGameModifiers: 1
+  negativePointsRequired: 0
+  checkMinNegativeModifier: 0
+  checkMaxPositiveModifier: 0
+  minimumRequiredNegativeGameModifiers: 0
+  maximumRequiredPositiveGameModifiers: 0
+  baseGameModifierPointsInMenu: 1
+  baseGameModifierPointsInWorld: 0
+  worldInteractableLayer:
+    serializedVersion: 2
+    m_Bits: 11
+  UseYears: 1
+  UseMonths: 1
+  UseWeeks: 1
+  UseDays: 1
+  UseHours: 1
+  UseMinutes: 1
+  UseSeconds: 1
+  UseSystemTime: 0
+  StartingYear: 1000
+  StartingMonth: 1
+  MonthsPerYear: 12
+  StartingWeek: 1
+  WeeksPerMonth: 4
+  StartingDay: 1
+  DaysPerWeek: 7
+  StartingHour: 12
+  HoursPerDay: 24
+  StartingMinute: 0
+  MinutesPerHour: 60
+  StartingSecond: 0
+  SecondsPerMinutes: 60
+  GlobalTimeSpeed: 0.5
+  SecondDuration: 0.0013888889
+  HourDuration: 5

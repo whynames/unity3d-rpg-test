@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a06c748cf5e0cd04ea1d36fab6bf32f9, type: 3}
+  m_Name: AIPhaseAbilitiesTemplates
+  m_EditorClassIdentifier: 
+  ModuleName: Phase Abilities
+  EntryType: PhaseAbilities
+  TypeName: PhaseAbilitiesTemplate
+  AssetFolderName: PhaseAbilitiesTemplates
+  AssetNameSuffix: _PHASE_ABILITIES
+  OldFolderName: 
+  IDFileName: 
+  OldIDFileName: 
+  DocumentationLink: https://blink.developerhub.io/rpg-builder/Phase-Abilities
+  IsSettingModule: 0
+  IsTypeModule: 1
+  IsEnabled: 1
+  ShowIconInList: 0
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: 
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 1
+  ShowFiltersButton: 0
+  databaseEntries:
+  - {fileID: 11400000, guid: 8f6380f8a989e424e88368d0bd1b6bd9, type: 2}

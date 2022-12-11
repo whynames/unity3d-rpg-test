@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8397832a421b4aa4bb023b431fc81370, type: 3}
+  m_Name: Strength_STAT
+  m_EditorClassIdentifier: 
+  ID: 27
+  entryName: Strength
+  entryFileName: Strength_STAT
+  entryDisplayName: Strength
+  entryIcon: {fileID: 0}
+  entryDescription: The amount of extra damage dealt by all Physical abilities.
+  _name: Strength
+  _fileName: RPG_STAT_Strength
+  displayName: Strength
+  description: The amount of extra damage dealt by all Physical abilities.
+  minCheck: 1
+  minValue: 0
+  maxCheck: 0
+  maxValue: 0
+  baseValue: 0
+  isShiftingInSprint: 1
+  isShiftingInBlock: 1
+  isShiftingOutsideCombat: 0
+  isShiftingInCombat: 0
+  shiftAmountOutsideCombat: 0
+  shiftIntervalOutsideCombat: 0
+  shiftAmountInCombat: 0
+  shiftIntervalInCombat: 0
+  startPercentage: 100
+  isPercentStat: 0
+  IsPersistent: 0
+  vitalityActions: []
+  onHitEffectsData: []
+  isVitalityStat: 0
+  statBonuses:
+  - statType: 14
+    modifyValue: 1
+    MainDamageType: 1
+    CustomDamageType: {fileID: 0}
+    CustomHealingType: {fileID: 0}
+    ResistanceStatID: 20
+    PenetrationStatID: 19
+    statID: -1
+  StatUICategory: Offense
+  StatCategory: {fileID: 11400000, guid: 44568e3d96f2adf4bac4657320e8b038, type: 2}

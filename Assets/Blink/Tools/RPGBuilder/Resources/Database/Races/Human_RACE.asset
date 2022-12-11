@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ba6b7e1e95e2d44ba6d52416e8e033e, type: 3}
+  m_Name: Human_RACE
+  m_EditorClassIdentifier: 
+  ID: 0
+  entryName: Human
+  entryFileName: Human_RACE
+  entryDisplayName: Human
+  entryIcon: {fileID: 21300000, guid: a50fef2277a98804c905c25693bb61ab, type: 3}
+  entryDescription: 
+  _name: 
+  _fileName: 
+  displayName: 
+  description: 
+  startingSceneID: 2
+  startingPositionID: 2
+  factionID: 0
+  speciesID: -1
+  malePrefab: {fileID: 0}
+  maleIcon: {fileID: 0}
+  femalePrefab: {fileID: 0}
+  femaleIcon: {fileID: 0}
+  dynamicAnimator: 0
+  restAnimatorController: {fileID: 0}
+  combatAnimatorController: {fileID: 0}
+  levelTemplateID: -1
+  Genders:
+  - Gender: {fileID: 11400000, guid: 6af37385c57329640bdb53dd75cf6921, type: 2}
+    Prefab: {fileID: 4523784951631706015, guid: beed1bbf2aa857849b5e9d0abf4e70af, type: 3}
+    Icon: {fileID: 21300000, guid: a50fef2277a98804c905c25693bb61ab, type: 3}
+    DynamicAnimator: 1
+    RestAnimatorController: {fileID: 22100000, guid: bce07712ca593f34f9c226bb6b2bcba4, type: 2}
+    CombatAnimatorController: {fileID: 22100000, guid: bce07712ca593f34f9c226bb6b2bcba4, type: 2}
+  availableClasses:
+  - classID: 0
+  - classID: 1
+  weaponTemplates: []
+  stats: []
+  CustomStats:
+  - statID: 0
+    overrideMinValue: 0
+    minValue: 0
+    overrideMaxValue: 0
+    maxValue: 0
+    overrideStartPercentage: 0
+    startPercentage: 100
+    addedValue: 0
+    valuePerLevel: 10
+    Percent: 0
+    chance: 100
+    vitalityActions: []
+  UseStatListTemplate: 0
+  StatListTemplate: {fileID: 0}
+  startItems: []
+  actionAbilities: []
+  allocationStatPoints: 0
+  allocatedStatsEntries: []

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85a30f2dbbdee2545ac6e569891a4447, type: 3}
+  m_Name: BlinkTheme_RPGBuilderEditor
+  m_EditorClassIdentifier: 
+  BackgroundColor1: {r: 0.065681726, g: 0.065681726, b: 0.11320752, a: 1}
+  BackgroundColor2: {r: 0.021626921, g: 0.025104199, b: 0.05660379, a: 1}
+  BannerCollapsed: {r: 0.06982187, g: 0.06884122, b: 0.122641504, a: 0.7647059}
+  BannerTextCollapsed: {r: 0.8773585, g: 0.8773585, b: 0.8773585, a: 1}
+  BannerExpanded: {r: 0.11854753, g: 0.14204362, b: 0.2264151, a: 1}
+  BannerTextExpanded: {r: 1, g: 1, b: 1, a: 1}
+  BannerHovered: {r: 0.2710039, g: 0.2946783, b: 0.5471698, a: 1}
+  BannerTextHovered: {r: 0, g: 1, b: 0.5803921, a: 1}
+  SearchBar: {r: 0, g: 0, b: 0, a: 1}
+  SearchBarHovered: {r: 0.11320752, g: 0.11320752, b: 0.11320752, a: 1}
+  AddButton: {r: 0.11494303, g: 0.5943396, b: 0.39318103, a: 1}
+  AddButtonHover: {r: 0.09211465, g: 0.8490566, b: 0.52904856, a: 1}
+  RemoveButton: {r: 0.6792453, g: 0.041651852, b: 0.041651852, a: 1}
+  RemoveButtonHover: {r: 0.8962264, g: 0.04650232, b: 0.04650232, a: 1}
+  GenericButton: {r: 0.67058825, g: 0.5481034, b: 0.3882353, a: 1}
+  GenericButtonHover: {r: 0.8490566, g: 0.6404081, b: 0.36445355, a: 1}
+  AbilityTooltipColor1: {r: 0.21910192, g: 0.17221431, b: 0.2830189, a: 0.49019608}
+  AbilityTooltipColor2: {r: 0.21910192, g: 0.17221431, b: 0.2830189, a: 0.8352941}
+  CustomTextField: {r: 0.2924528, g: 0.2924528, b: 0.2924528, a: 0.2901961}
+  CustomTextFieldHover: {r: 0.6320754, g: 0.6320754, b: 0.6320754, a: 0.2901961}
+  FillBarBackground: {r: 0.2924528, g: 0.2924528, b: 0.2924528, a: 0.2901961}
+  FillBar: {r: 0.39551443, g: 0.74868727, b: 0.8301887, a: 0.87058824}
+  FillBarHover: {r: 0.028034903, g: 0.56545466, b: 0.8490566, a: 1}
+  TextLabelColor: {r: 0.8584906, g: 0.8584906, b: 0.8584906, a: 1}
+  TextLabelColorHover: {r: 1, g: 1, b: 1, a: 1}
+  TextValueColor: {r: 1, g: 1, b: 1, a: 1}
+  TextValueColorHover: {r: 0, g: 1, b: 0.5813954, a: 1}
+  TitleLabelColor: {r: 0.9245283, g: 0.6408934, b: 0.24857599, a: 1}
+  TitleLabelColorHover: {r: 1, g: 0.58218247, b: 0, a: 1}

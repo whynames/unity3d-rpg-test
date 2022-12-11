@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4d95cbfb68417146aa95f69bac0a273, type: 3}
+  m_Name: Character_Settings
+  m_EditorClassIdentifier: 
+  ID: 0
+  entryName: 
+  entryFileName: 
+  entryDisplayName: 
+  entryIcon: {fileID: 0}
+  entryDescription: 
+  StatFunctionsList:
+  - NONE
+  - PHYSICAL_DAMAGE
+  - MAGICAL_DAMAGE
+  - PHYSICAL_RESISTANCE
+  - MAGICAL_RESISTANCE
+  - Fire Damage
+  - Cold Damage
+  - Slicing Damage
+  - Toxic Damage
+  - Piercing Damage
+  nodeSocketNames:
+  - Projectile1
+  - Projectile2
+  - ProjectileHit
+  NoClasses: 0
+  CanTargetPlayerOnClick: 0
+  StatAllocationPointID: -1
+  MustSpendAllStatPointsToCreateCharacter: 0
+  CanRefundStatPointInGame: 1
+  SprintStatDrainID: 3
+  SprintStatDrainAmount: 2
+  SprintStatDrainInterval: 1

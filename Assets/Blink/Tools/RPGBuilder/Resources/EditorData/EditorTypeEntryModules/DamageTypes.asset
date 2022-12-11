@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea2b6ee20220d5442890ebc999cea4ac, type: 3}
+  m_Name: DamageTypes
+  m_EditorClassIdentifier: 
+  ModuleName: Damage Types
+  EntryType: DamageTypes
+  TypeName: RPGBDamageType
+  AssetFolderName: Types
+  AssetNameSuffix: _DAMAGE_TYPE
+  OldFolderName: 
+  IDFileName: 
+  OldIDFileName: 
+  DocumentationLink: 
+  IsSettingModule: 0
+  IsTypeModule: 1
+  IsEnabled: 1
+  ShowIconInList: 0
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: 
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 0
+  ShowFiltersButton: 0
+  databaseEntries:
+  - {fileID: 11400000, guid: c313dc209ed403e49aa60496770f947a, type: 2}
+  - {fileID: 11400000, guid: 5af9468d4942f7a43b53ebfe815ed1cd, type: 2}
+  - {fileID: 11400000, guid: f985f38f28d5cd2498cb21510e73cfba, type: 2}
+  - {fileID: 11400000, guid: fb09aee37ff90b64b8035153f509a59e, type: 2}
+  - {fileID: 11400000, guid: e0546cc4abd8f024db09534593a11875, type: 2}

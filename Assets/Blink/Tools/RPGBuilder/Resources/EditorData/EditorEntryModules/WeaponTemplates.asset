@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8ac6c1f578a0f24da0c9b3ad4bca76b, type: 3}
+  m_Name: WeaponTemplates
+  m_EditorClassIdentifier: 
+  ModuleName: Weapon Templates
+  EntryType: WeaponTemplate
+  TypeName: RPGWeaponTemplate
+  AssetFolderName: WeaponTemplates
+  AssetNameSuffix: _WEAPON_TEMPLATE
+  IDFileName: WeaponTemplates_ID
+  OldIDFileName: WeaponTemplatesIDs
+  DocumentationLink: https://blink.developerhub.io/rpg-builder/weapon-template
+  IsSettingModule: 0
+  IsTypeModule: 0
+  IsEnabled: 1
+  ShowIconInList: 1
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: WeaponTemplateID
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 1
+  ShowFiltersButton: 1
+  databaseEntries:
+  - {fileID: 11400000, guid: e36ee3951d73e1648b61cb9ef4c3cb01, type: 2}
+  - {fileID: 11400000, guid: 7accf06b502d08d4793be3ec3e5817b0, type: 2}
+  - {fileID: 11400000, guid: f54c7f76ad6223548a628f947557cec3, type: 2}

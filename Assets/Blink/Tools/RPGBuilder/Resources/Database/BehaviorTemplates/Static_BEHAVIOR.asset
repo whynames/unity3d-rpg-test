@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfea309fb49ee4b4aa219db7690d2f2b, type: 3}
+  m_Name: Static_BEHAVIOR
+  m_EditorClassIdentifier: 
+  ID: -1
+  entryName: Static
+  entryFileName: Static_BEHAVIOR
+  entryDisplayName: 
+  entryIcon: {fileID: 0}
+  entryDescription: 
+  DefaultState: {fileID: 11400000, guid: 068ef49e9ff815742a8b1627916dd23d, type: 2}
+  DefaultStateTemplate: {fileID: 11400000, guid: 3612751809149db4b9a864a86cf56e09,
+    type: 2}
+  DefaultPetState: {fileID: 11400000, guid: 068ef49e9ff815742a8b1627916dd23d, type: 2}
+  DefaultPetStateTemplate: {fileID: 11400000, guid: 3612751809149db4b9a864a86cf56e09,
+    type: 2}
+  ChaseState: {fileID: 0}
+  ChaseTemplate: {fileID: 0}
+  CombatIdleState: {fileID: 0}
+  CombatIdleTemplate: {fileID: 0}
+  CombatState: {fileID: 0}
+  CombatTemplate: {fileID: 0}
+  WalkBackwardState: {fileID: 0}
+  WalkBackwardTemplate: {fileID: 0}
+  FleeState: {fileID: 0}
+  FleeTemplate: {fileID: 0}
+  FleeRequirementsTemplate: {fileID: 0}
+  FleeCheckInterval: 3
+  PotentialAbilities: []
+  MaxDistanceFromTarget: 3
+  MinDistanceFromTarget: 2
+  LookAtTargetSpeed: 0
+  CheckTargetInterval: 0.5
+  ResetTargetAfterDistanceFromSpawner: 0
+  SpawnerDistanceMax: 30
+  ResetTargetAfterDistanceFromSpawnpoint: 0
+  SpawnPointDistanceMax: 30
+  StrafeParameterName: Strafing
+  CombatParameterName: InCombatState
+  CanAggroAlly: 0
+  CanAggroNeutral: 0
+  CanAggroEnemy: 0
+  PhaseCheckInterval: 3

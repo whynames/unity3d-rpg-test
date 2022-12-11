@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f96b0784799e03847a37c0c0ada89838, type: 3}
+  m_Name: Bear Fur_LOOT_TABLE
+  m_EditorClassIdentifier: 
+  ID: 1
+  entryName: Bear Fur
+  entryFileName: Bear Fur_LOOT_TABLE
+  entryDisplayName: 
+  entryIcon: {fileID: 0}
+  entryDescription: 
+  _name: 
+  _fileName: 
+  lootItems:
+  - itemID: 29
+    min: 1
+    max: 2
+    dropRate: 100
+  - itemID: 13
+    min: 1
+    max: 1
+    dropRate: 40
+  LimitDroppedItems: 0
+  maxDroppedItems: 1
+  Requirements: []
+  UseRequirementsTemplate: 0
+  RequirementsTemplate: {fileID: 0}

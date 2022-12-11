@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 653378a43afdec5449ed3f9524f4b519, type: 3}
+  m_Name: GameScenes
+  m_EditorClassIdentifier: 
+  ModuleName: Game Scenes
+  EntryType: GameScene
+  TypeName: RPGGameScene
+  AssetFolderName: GameScenes
+  AssetNameSuffix: _GAME_SCENE
+  IDFileName: GameScenes_ID
+  OldIDFileName: GameSceneIDs
+  DocumentationLink: https://blink.developerhub.io/rpg-builder/game-scenes
+  IsSettingModule: 0
+  IsTypeModule: 0
+  IsEnabled: 1
+  ShowIconInList: 1
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: GameSceneID
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 1
+  ShowFiltersButton: 1
+  databaseEntries:
+  - {fileID: 11400000, guid: ead2cd819aa6e524abc11ccf29587508, type: 2}
+  - {fileID: 11400000, guid: e08e5849718b8d640bba3393c7facc9e, type: 2}

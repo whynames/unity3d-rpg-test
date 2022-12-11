@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 901e672b392df224382e4165aa29e011, type: 3}
+  m_Name: Staff_WEAPON_TRANSFORM
+  m_EditorClassIdentifier: 
+  ID: -1
+  entryName: Staff
+  entryFileName: Staff_WEAPON_TRANSFORM
+  entryDisplayName: 
+  entryIcon: {fileID: 0}
+  entryDescription: 
+  WeaponTransforms:
+  - raceID: 0
+    transformValues:
+    - gender: {fileID: 11400000, guid: 6af37385c57329640bdb53dd75cf6921, type: 2}
+      CombatPosition: {x: 0, y: 0, z: 0}
+      CombatRotation: {x: 0, y: 0, z: 0}
+      CombatScale: {x: 1.212493, y: 1.212493, z: 1.212493}
+      RestPosition: {x: 0, y: 0, z: 0}
+      RestRotation: {x: 12.952393, y: 340.42453, z: 94.098335}
+      RestScale: {x: 1.2124927, y: 1.2124927, z: 1.2124927}
+      CombatPosition2: {x: 0, y: 0, z: 0}
+      CombatRotation2: {x: 0, y: 0, z: 0}
+      CombatScale2: {x: 1, y: 1, z: 1}
+      RestPosition2: {x: 0, y: 0, z: 0}
+      RestRotation2: {x: 0, y: 0, z: 0}
+      RestScale2: {x: 1, y: 1, z: 1}

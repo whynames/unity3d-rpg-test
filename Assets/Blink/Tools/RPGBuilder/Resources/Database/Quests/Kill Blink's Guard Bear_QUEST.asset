@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bb18b8dfb0f3be4cb9856d31baa677e, type: 3}
+  m_Name: Kill Blink's Guard Bear_QUEST
+  m_EditorClassIdentifier: 
+  ID: 0
+  entryName: Kill Blink's Guard Bear
+  entryFileName: Kill Blink's Guard Bear_QUEST
+  entryDisplayName: Kill Blink's Guard Bear
+  entryIcon: {fileID: 0}
+  entryDescription: Follow the bones and find Blink's guard bear. He is responsible
+    for 2.0 wait duration, make sure to make him pay.
+  _name: 
+  displayName: 
+  _fileName: 
+  description: 
+  ObjectiveText: Find and kill Blink's Guard Bear
+  ProgressText: Kill
+  repeatable: 0
+  canBeTurnedInWithoutNPC: 0
+  Requirements: []
+  UseRequirementsTemplate: 0
+  RequirementsTemplate: {fileID: 0}
+  itemsGiven: []
+  objectives:
+  - objectiveType: 0
+    taskID: 0
+    timeLimit: 0
+  rewardsGiven:
+  - rewardType: 0
+    itemID: 13
+    currencyID: -1
+    treePointID: -1
+    factionID: -1
+    weaponTemplateID: -1
+    count: 5
+    Experience: 0
+  rewardsToPick: []

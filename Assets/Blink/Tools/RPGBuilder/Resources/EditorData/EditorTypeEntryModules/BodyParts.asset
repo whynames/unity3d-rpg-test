@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcff7bc76f363ee4c88c5e3baa5f8ccc, type: 3}
+  m_Name: BodyParts
+  m_EditorClassIdentifier: 
+  ModuleName: Body Parts
+  EntryType: BodyParts
+  TypeName: RPGBBodyPart
+  AssetFolderName: Types
+  AssetNameSuffix: _BODY_PART
+  OldFolderName: 
+  IDFileName: 
+  OldIDFileName: 
+  DocumentationLink: 
+  IsSettingModule: 0
+  IsTypeModule: 1
+  IsEnabled: 1
+  ShowIconInList: 0
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: 
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 0
+  ShowFiltersButton: 0
+  databaseEntries:
+  - {fileID: 11400000, guid: c14c23184c613b046af68b73ecf85191, type: 2}
+  - {fileID: 11400000, guid: 3b414c00bcec50a4396df1aa3e962fc8, type: 2}
+  - {fileID: 11400000, guid: 454499f0063bd554b8171e142a4fad1a, type: 2}
+  - {fileID: 11400000, guid: 57f8a7afbfdaff741b407a611db3e225, type: 2}
+  - {fileID: 11400000, guid: 7acb3538b800c7246b99fc70badf7a30, type: 2}
+  - {fileID: 11400000, guid: 7dd55ca703afcaf40933a7ed7304245c, type: 2}
+  - {fileID: 11400000, guid: b86481cf3a7bf8d40bb8920ad5acd2a9, type: 2}
+  - {fileID: 11400000, guid: adfc295dbf177124eb15d743faecd938, type: 2}
+  - {fileID: 11400000, guid: af3587d5a3c408843a6fd4b4c4616a18, type: 2}
+  - {fileID: 11400000, guid: 17a8e68f557bc224ba7a73432fc7f546, type: 2}

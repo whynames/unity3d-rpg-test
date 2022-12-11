@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8397832a421b4aa4bb023b431fc81370, type: 3}
+  m_Name: Health On Hit_STAT
+  m_EditorClassIdentifier: 
+  ID: 30
+  entryName: Health On Hit
+  entryFileName: Health On Hit_STAT
+  entryDisplayName: Health On Hit
+  entryIcon: {fileID: 0}
+  entryDescription: The amount of health gained back when hitting with abilities
+    that have the On Hit tag.
+  _name: Health On Hit
+  _fileName: RPG_STAT_Health On Hit
+  displayName: Health On Hit
+  description: The amount of health gained back when hitting with abilities that
+    have the On Hit tag.
+  minCheck: 1
+  minValue: 0
+  maxCheck: 0
+  maxValue: 0
+  baseValue: 0
+  isShiftingInSprint: 1
+  isShiftingInBlock: 1
+  isShiftingOutsideCombat: 0
+  isShiftingInCombat: 0
+  shiftAmountOutsideCombat: 0
+  shiftIntervalOutsideCombat: 0
+  shiftAmountInCombat: 0
+  shiftIntervalInCombat: 0
+  startPercentage: 100
+  isPercentStat: 0
+  IsPersistent: 0
+  vitalityActions: []
+  onHitEffectsData: []
+  isVitalityStat: 0
+  statBonuses:
+  - statType: 29
+    modifyValue: 1
+    MainDamageType: 0
+    CustomDamageType: {fileID: 0}
+    CustomHealingType: {fileID: 0}
+    ResistanceStatID: -1
+    PenetrationStatID: -1
+    statID: -1
+  StatUICategory: Support
+  StatCategory: {fileID: 11400000, guid: fcd9f26e9cba31d4b879b3d9672502c3, type: 2}

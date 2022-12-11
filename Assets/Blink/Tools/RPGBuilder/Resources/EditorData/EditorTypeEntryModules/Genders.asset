@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27eb7ccb23101ff44bb32a8b9901df51, type: 3}
+  m_Name: Genders
+  m_EditorClassIdentifier: 
+  ModuleName: Genders
+  EntryType: Genders
+  TypeName: RPGBGender
+  AssetFolderName: Types
+  AssetNameSuffix: _GENDER
+  OldFolderName: 
+  IDFileName: 
+  OldIDFileName: 
+  DocumentationLink: 
+  IsSettingModule: 0
+  IsTypeModule: 1
+  IsEnabled: 1
+  ShowIconInList: 0
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: 
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 0
+  ShowFiltersButton: 0
+  databaseEntries:
+  - {fileID: 11400000, guid: a7f8731a5fd9fd541aa5657eb596884f, type: 2}
+  - {fileID: 11400000, guid: 6af37385c57329640bdb53dd75cf6921, type: 2}

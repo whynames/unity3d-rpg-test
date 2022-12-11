@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ada825255f0166f4c9c8124a0f1e2448, type: 3}
+  m_Name: Rusty Axe_ITEM
+  m_EditorClassIdentifier: 
+  ID: 12
+  entryName: Rusty Axe
+  entryFileName: Rusty Axe_ITEM
+  entryDisplayName: Rusty Axe
+  entryIcon: {fileID: 21300000, guid: 05cd9fd0e46674548b58d64ce05ef097, type: 3}
+  entryDescription: 
+  _name: 
+  _fileName: 
+  displayName: 
+  icon: {fileID: 0}
+  equipmentSlot: 
+  ArmorSlot: {fileID: 11400000, guid: 809a50269aa90f14d96b4bfbbb282b92, type: 2}
+  itemType: 
+  ItemType: {fileID: 11400000, guid: 7c2f681407cf6454eb8710fa80671903, type: 2}
+  weaponType: 
+  WeaponType: {fileID: 11400000, guid: bc5539388a78af742a7a5ff4b4821b7f, type: 2}
+  armorType: 
+  ArmorType: {fileID: 11400000, guid: b3e9dece47ba97945968b015c97df10d, type: 2}
+  slotType: 
+  WeaponSlot: {fileID: 11400000, guid: 193acfeeadaaf0442ac5d2fc43c179c8, type: 2}
+  rarity: 
+  ItemRarity: {fileID: 11400000, guid: 9fe2887c3181d5146a74e57b1a55a22d, type: 2}
+  itemModelName: 
+  weaponModel: {fileID: 991772141375400263, guid: a821353c6e9508646aeab10299bff878,
+    type: 3}
+  modelMaterial: {fileID: 0}
+  weaponPositionDatas: []
+  showWeaponPositionData: 0
+  WeaponTransforms: []
+  UseWeaponTransformTemplate: 1
+  WeaponTransformTemplate: {fileID: 11400000, guid: 3fa2f3ac93609564b8952540a233d029,
+    type: 2}
+  AttackSpeed: 1.25
+  minDamage: 5
+  maxDamage: 8
+  autoAttackAbilityID: -1
+  stats: []
+  randomStats: []
+  randomStatsMax: 0
+  sellPrice: 0
+  convertToCurrency: -1
+  sellCurrencyID: -1
+  buyPrice: 0
+  buyCurrencyID: -1
+  stackLimit: 1
+  description: 
+  dropInWorld: 0
+  itemWorldModel: {fileID: 0}
+  durationInWorld: 60
+  worldInteractableLayer: 0
+  enchantmentID: -1
+  isEnchantmentConsumed: 0
+  sockets: []
+  gemData:
+    socketType: 
+    GemSocketType: {fileID: 0}
+    gemStats: []
+  Requirements: []
+  UseRequirementsTemplate: 1
+  RequirementsTemplate: {fileID: 11400000, guid: 4b3f3d5f228ac3444865bbb19a18d4de,
+    type: 2}
+  actionAbilities: []
+  GameActions: []
+  UseGameActionsTemplate: 0
+  GameActionsTemplate: {fileID: 0}
+  BodyCullingTemplate: {fileID: 0}

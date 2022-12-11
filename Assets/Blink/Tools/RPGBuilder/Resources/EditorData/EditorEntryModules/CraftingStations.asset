@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6236852f78b0eb149bb2b4455e7705d6, type: 3}
+  m_Name: CraftingStations
+  m_EditorClassIdentifier: 
+  ModuleName: Crafting Stations
+  EntryType: CraftingStation
+  TypeName: RPGCraftingStation
+  AssetFolderName: CraftingStations
+  AssetNameSuffix: _CRAFTING_STATION
+  IDFileName: CraftingStations_ID
+  OldIDFileName: CraftingStationsIDs
+  DocumentationLink: https://blink.developerhub.io/rpg-builder/crafting-stations
+  IsSettingModule: 0
+  IsTypeModule: 0
+  IsEnabled: 1
+  ShowIconInList: 1
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: CraftingStationID
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 1
+  ShowFiltersButton: 1
+  databaseEntries:
+  - {fileID: 11400000, guid: 08fef4324840dad4e802b7c883642fc9, type: 2}
+  - {fileID: 11400000, guid: e4615d7d1332b654588375461ee70b7d, type: 2}
+  - {fileID: 11400000, guid: e7ff171c2692b2f48ba974e7c83ade35, type: 2}

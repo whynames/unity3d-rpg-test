@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0db7e0184b9a2b14f8d4d58183dba32d, type: 3}
+  m_Name: Factions
+  m_EditorClassIdentifier: 
+  ModuleName: Factions
+  EntryType: Faction
+  TypeName: RPGFaction
+  AssetFolderName: Factions
+  AssetNameSuffix: _FACTION
+  OldFolderName: 
+  IDFileName: Factions_ID
+  OldIDFileName: FactionsIDs
+  DocumentationLink: https://blink.developerhub.io/rpg-builder/factions
+  IsSettingModule: 0
+  IsTypeModule: 0
+  IsEnabled: 1
+  ShowIconInList: 1
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: FactionID
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 1
+  ShowFiltersButton: 1
+  databaseEntries:
+  - {fileID: 11400000, guid: 548edb0008a39ac4b8a4eaa6ab646f64, type: 2}
+  - {fileID: 11400000, guid: 3373acf609049604096ebefd29b9dd77, type: 2}
+  - {fileID: 11400000, guid: 8ae00c34bb1f756439d22d56645894d0, type: 2}
+  - {fileID: 11400000, guid: a6ae3711047668349b9fce1df5c1dfb9, type: 2}

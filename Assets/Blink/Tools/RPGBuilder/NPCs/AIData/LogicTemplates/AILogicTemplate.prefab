@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &262611205548413635
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4683708706905073188}
+  - component: {fileID: -9132263810763118986}
+  - component: {fileID: 7437557022330796800}
+  m_Layer: 0
+  m_Name: NPCPrefabTemplate
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4683708706905073188
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 262611205548413635}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-9132263810763118986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 262611205548413635}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f804c7be4e015547a2aa589501b90b5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  States: []
+  ActiveBlockingState:
+    curBlockChargeTime: 0
+    targetBlockChargeTime: 0
+    blockDurationLeft: 0
+    curBlockPowerFlat: 0
+    nextBlockStatDrain: 0
+    curBlockHitCount: 0
+    curBlockPowerModifier: 0
+    curBlockedDamageLeft: 0
+    blockIsDoneCharging: 0
+    cachedBlockMaxDuration: 0
+    effect: {fileID: 0}
+    effectRank:
+      ShowedInEditor: 0
+      mainDamageTypes: 0
+      secondaryDamageType: 
+      customDamageType: {fileID: 0}
+      Damage: 0
+      alteredStatID: -1
+      FlatCalculation: 0
+      CannotCrit: 0
+      removeStealth: 1
+      skillModifier: 0
+      weaponDamageModifier: 0
+      useWeapon1Damage: 1
+      useWeapon2Damage: 1
+      skillModifierID: -1
+      lifesteal: 0
+      maxHealthModifier: 0
+      missingHealthModifier: 0
+      UltimateGain: 0
+      delay: 0
+      projectilesReflectedCount: 0
+      requiredEffectID: -1
+      requiredEffectDamageModifier: 0
+      damageStatID: -1
+      damageStatModifier: 0
+      hitValueType: 0
+      teleportType: 0
+      gameSceneID: -1
+      teleportPOS: {x: 0, y: 0, z: 0}
+      teleportDirectionalType: 0
+      teleportDirectionalDistance: 0
+      teleportDirectionalBlockLayers:
+        serializedVersion: 2
+        m_Bits: 0
+      lootTableID: -1
+      petNPCDataID: -1
+      petDuration: 60
+      petSPawnCount: 1
+      petScaleWithCharacter: 0
+      knockbackDistance: 0
+      motionDistance: 5
+      motionSpeed: 0.5
+      motionDirection: {x: 0, y: 0, z: 0}
+      motionIgnoreUseCondition: 0
+      isImmuneDuringMotion: 0
+      blockAnyDamage: 1
+      blockPhysicalDamage: 0
+      blockMagicalDamage: 0
+      isBlockChargeTime: 0
+      isBlockLimitedDuration: 0
+      isBlockPowerDecay: 0
+      isBlockKnockback: 0
+      blockStatDecay: 0
+      blockChargeTime: 0.5
+      blockDuration: 1
+      blockPowerModifier: 100
+      blockPowerDecay: 0.1
+      blockAngle: 90
+      blockStatDecayInterval: 1
+      blockPowerFlat: 0
+      blockHitCount: 1
+      blockMaxDamage: 0
+      blockStatDecayAmount: 1
+      blockDurationType: 0
+      blockEndType: 0
+      blockStatID: -1
+      blockedDamageTypes: []
+      blockedCustomDamageTypes: []
+      dispelType: 0
+      dispelEffectType: 0
+      dispelEffectTag: 
+      DispelEffectTag: {fileID: 0}
+      dispelEffectID: -1
+      shapeshiftingModel: {fileID: 0}
+      shapeshiftingmodelPosition: {x: 0, y: 0, z: 0}
+      shapeshiftingmodelScale: {x: 1, y: 1, z: 1}
+      shapeshiftingAnimatorController: {fileID: 0}
+      shapeshiftingAnimatorAvatar: {fileID: 0}
+      shapeshiftingAnimatorUseRootMotion: 0
+      shapeshiftingAnimatorUpdateMode: 0
+      shapeshiftingAnimatorCullingMode: 0
+      shapeshiftingOverrideMainActionBar: 0
+      canCameraAim: 0
+      shapeshiftingActiveAbilities: 
+      MountPrefab: {fileID: 0}
+      MountPosition: {x: 0, y: 0, z: 0}
+      MountScale: {x: 1, y: 1, z: 1}
+      RiderPosition: {x: 0, y: 0, z: 0}
+      RiderRotation: {x: 0, y: 0, z: 0}
+      ReParentCharacterArmature: 0
+      RiderReParentName: 
+      CanUseAbilitiesMounted: 0
+      MountAnimationParameter: 
+      MountAnimatorController: {fileID: 0}
+      MountAvatar: {fileID: 0}
+      mountCanAim: 0
+      showStealthActionBar: 1
+      nestedEffects: []
+      VisualEffectEntries: []
+      AnimationEntries: []
+      SoundEntries: []
+      visualEffects: []
+      visualAnimations: []
+      statEffectsData: []
+      GameActionsList: []
+      onBlockActions: []
+      GameActions: []
+      UseGameActionsTemplate: 0
+      GameActionsTemplate: {fileID: 0}
+  NodeSockets: {fileID: 0}
+  ShapeshiftedNodeSockets: {fileID: 0}
+  mainRenderer: {fileID: 0}
+  CurrentAnimationCoroutines: []
+  equippedArmors: []
+  equippedWeapons: []
+--- !u!114 &7437557022330796800
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 262611205548413635}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 384a9f83a648e1d40853bcf3740956a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ThisCombatEntity: {fileID: 0}
+  nextTargetCheck: 0
+  EntityAgent: {fileID: 0}
+  EntityAnimator: {fileID: 0}
+  currentState: {fileID: 0}
+  BehaviorTemplate: {fileID: 0}
+  currentPhaseIndex: 0

@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c499fc4fc6ada8244aee3184cc94e7c5, type: 3}
+  m_Name: RPGBuilderEditorData
+  m_EditorClassIdentifier: 
+  ResourcePath: Assets/Blink/Tools/RPGBuilder/Resources/
+  RPGBDatabasePath: Database/
+  RPGBEditorDataPath: EditorData/
+  MainMenuScene: {fileID: 102900000, guid: 59589b435ddfedf48ac45ca0aab6638b, type: 3}
+  DemoScene: {fileID: 102900000, guid: 1f6bc91b6f0af0e4d9d9848d3c0323fa, type: 3}
+  disableStartupWindow: 0
+  MinEditorWidth: 1200
+  MinEditorHeight: 600
+  RPGBuilderLogo: {fileID: 21300000, guid: 31db8736fbbeda64a81bb79d457c1200, type: 3}
+  BlinkLogoOff: {fileID: 21300000, guid: 2da8eb93362c3e94c9c5c69124a34594, type: 3}
+  BlinkLogoOn: {fileID: 21300000, guid: e8378f5eb2dff7c42aa557b9a37a3ea7, type: 3}
+  BlinkBanner: {fileID: 21300000, guid: 8286a45874bb413418b22aadae67141f, type: 3}
+  BlinkSmallLogoOff: {fileID: 21300000, guid: 028ae031cde94e148944d35b176ce85f, type: 3}
+  BlinkSmallLogoOn: {fileID: 21300000, guid: 783d8ba70655cb740b3831dc88b6316c, type: 3}
+  CategoryWidthPercent: 0
+  SubCategoryWidthPercent: 0
+  CategoryMenuWidthPercent: 0.175
+  ElementListWidthPercent: 0.175
+  ViewWidthPercent: 0.65
+  FilterWidthPercent: 0.2
+  TopBarHeightPercent: 0.07
+  viewSmallFieldHeight: 19
+  smallButtonHeight: 25
+  labelFieldWidth: 200
+  filterLabelFieldWidth: 100
+  SmallActionButtonWidth: 80
+  MediumActionButtonWidth: 100
+  BigActionButtonWidth: 150
+  bannerBegin: {fileID: 2800000, guid: 594672b7d94bf314abb722c28475e4ca, type: 3}
+  bannerMiddle: {fileID: 2800000, guid: b4085de1e8b88d94fa78c4f9a9c2870d, type: 3}
+  bannerEnd: {fileID: 2800000, guid: 38c9bf83789dfae47848ae0d264bc2d6, type: 3}
+  actionButtonsY: 37.5
+  ModuleButtonsY: 37.5
+  EntryListY: 35
+  defaultEntryIcon: {fileID: 21300000, guid: c99ec436c87639f4b8eac48640bd05b0, type: 3}
+  abilityNullSprite: {fileID: 2800000, guid: 2fb82248f893ddc459132cce60a28e18, type: 3}
+  gearSetsSeparator: {fileID: 2800000, guid: 0b3b7acbdba60e04988ea0252583fefb, type: 3}
+  AILogicTemplate: {fileID: 262611205548413635, guid: 42a8b97728201df44ba95376d46032e3,
+    type: 3}
+  textFont: {fileID: 12800000, guid: 799588eaf7ad94f44976f99394c5dd04, type: 3}
+  squareRemoveButtonFont: {fileID: 12800000, guid: 91b963aa2af62174ebab890567705385,
+    type: 3}
+  BackgroundTexture1: {fileID: 2800000, guid: afff7c36ff048c1498a33c8b89d123aa, type: 3}
+  BackgroundTexture2: {fileID: 2800000, guid: 7c9fa6d32ef8f6d4d86719a9b59e6781, type: 3}
+  SearchBarTexture: {fileID: 2800000, guid: 47071390816933647b15a0bd539eeea4, type: 3}
+  SearchBarHoveredTexture: {fileID: 2800000, guid: e72ba06e68b31f745b09dccbbdc30dc9,
+    type: 3}
+  AddButtonTexture: {fileID: 2800000, guid: 5b77141996265744bb5f0b0b54700ab1, type: 3}
+  AddButtonHoveredTexture: {fileID: 2800000, guid: 5194b1cbae2fde640846a466ee94f73d,
+    type: 3}
+  RemoveButtonTexture: {fileID: 2800000, guid: 3c2db8947bfc8904895758c9c5f54549, type: 3}
+  RemoveButtonHoveredTexture: {fileID: 2800000, guid: 65750b54a958fe446ad416e068dcf2f3,
+    type: 3}
+  GenericButtonTexture: {fileID: 2800000, guid: df96b756fa9c67a47bd67eb36dd2cf7a,
+    type: 3}
+  GenericButtonHoveredTexture: {fileID: 2800000, guid: e1e85c39cadc0f34b8c302f0d39e481e,
+    type: 3}
+  AddButtonSquareTexture: {fileID: 2800000, guid: e88698392118b364087a9fe704a96367,
+    type: 3}
+  AddButtonSquareHoveredTexture: {fileID: 2800000, guid: 9888e1a849a3a064a87d4c7794b5ded8,
+    type: 3}
+  RemoveButtonSquareTexture: {fileID: 2800000, guid: 9bfccf8f9cd6b0d4585658f174cd4797,
+    type: 3}
+  RemoveButtonSquareHoveredTexture: {fileID: 2800000, guid: 3f4e12a52fffa044fbb7800c2148c0c9,
+    type: 3}
+  AbilityTooltipBackground: {fileID: 2800000, guid: 876a38dbe91d32d4897fcbce5b689b08,
+    type: 3}
+  AbilityTooltipBackgroundHover: {fileID: 2800000, guid: 0db981683180b004ba13d700f67bdb6f,
+    type: 3}
+  CustomTextField: {fileID: 2800000, guid: 9187155689acd2240b44be348039c9b4, type: 3}
+  CustomTextFieldHover: {fileID: 2800000, guid: 7087f3a8315b17e4294979c88aa0220d,
+    type: 3}
+  FillBarBackground: {fileID: 2800000, guid: ad0d1041c19806f41adeefef8927609c, type: 3}
+  FillBar: {fileID: 2800000, guid: 60180d9a41359c347b57a235bec77a8f, type: 3}
+  FillBarHover: {fileID: 2800000, guid: f79d81dbb68b9174bbe2c0c4397c2093, type: 3}

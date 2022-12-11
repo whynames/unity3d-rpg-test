@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e597c28f04c69a64e9b40678fd8f57e7, type: 3}
+  m_Name: ActionKeyCategories
+  m_EditorClassIdentifier: 
+  ModuleName: Action Key Categories
+  EntryType: ActionKeyCategories
+  TypeName: RPGBActionKeyCategory
+  AssetFolderName: Types
+  AssetNameSuffix: _ACTION_KEY_CATEGORY
+  OldFolderName: 
+  IDFileName: 
+  OldIDFileName: 
+  DocumentationLink: 
+  IsSettingModule: 0
+  IsTypeModule: 1
+  IsEnabled: 1
+  ShowIconInList: 0
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: 
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 0
+  ShowFiltersButton: 0
+  databaseEntries:
+  - {fileID: 11400000, guid: 394a4d65ed96e8947ab45f3bde0a09c9, type: 2}
+  - {fileID: 11400000, guid: d8215dbc904ddb1409a14d5027152bf5, type: 2}
+  - {fileID: 11400000, guid: 01122e0bdd31daa42a9715a293b8ddb4, type: 2}
+  - {fileID: 11400000, guid: 2d2012dfa80edae4b8cce6be26083491, type: 2}
+  - {fileID: 11400000, guid: 5f997748d8586c540b2a9f1c2c8af773, type: 2}

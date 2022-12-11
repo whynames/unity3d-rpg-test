@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df6b11646486f6a4a8069b9ad5b60768, type: 3}
+  m_Name: Editor_Settings
+  m_EditorClassIdentifier: 
+  ID: -1
+  entryName: 
+  entryFileName: 
+  entryDisplayName: 
+  entryIcon: {fileID: 0}
+  entryDescription: 
+  IncreasedEditorRepaint: 1
+  ShowFileNames: 0
+  ResourcePath: Assets/Blink/Tools/RPGBuilder/Resources/
+  DatabasePath: Database/
+  RPGBEditorDataPath: EditorData/
+  EditorTheme: {fileID: 11400000, guid: c17f7bfbfab5eee4792c89559d3160ab, type: 2}
+  sceneLoaderList:
+  - sceneName: Main Menu
+    scene: {fileID: 102900000, guid: 59589b435ddfedf48ac45ca0aab6638b, type: 3}
+  - sceneName: Demo
+    scene: {fileID: 102900000, guid: 1f6bc91b6f0af0e4d9d9848d3c0323fa, type: 3}
+  characterSelectedName: dream

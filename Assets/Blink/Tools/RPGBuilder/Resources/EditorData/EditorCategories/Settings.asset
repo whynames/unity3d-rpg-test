@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed804d5e4e27ad64992bb2f01f49fff1, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  CategoryName: Settings
+  OrderIndex: 8
+  IsEnabled: 1
+  IsExpanded: 0
+  IsDatabaseCategory: 1
+  modules:
+  - {fileID: 11400000, guid: f5d4d3c6673db054f874f782fceb86b9, type: 2}
+  - {fileID: 11400000, guid: 7ca41fedba3fc93488e64e6ae0746394, type: 2}
+  - {fileID: 11400000, guid: 1e5fcd8793fc3ba448afab040c2fb04f, type: 2}
+  - {fileID: 11400000, guid: 9c345a411c7f255499c193b322e3d830, type: 2}
+  - {fileID: 11400000, guid: bc1ef3b54ced45844a5e3f58203cb464, type: 2}
+  - {fileID: 11400000, guid: 4b10eaec56e194e4d9692461c42022f3, type: 2}
+  - {fileID: 11400000, guid: 1a773278da42e4842a9d1f789839029b, type: 2}
+  - {fileID: 11400000, guid: c22cad0a54ccb9e43a535a554b58bab6, type: 2}
+  - {fileID: 11400000, guid: d98217171514653469ebe47545755754, type: 2}

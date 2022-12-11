@@ -1,0 +1,246 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ada825255f0166f4c9c8124a0f1e2448, type: 3}
+  m_Name: Healing Potion_ITEM
+  m_EditorClassIdentifier: 
+  ID: 13
+  entryName: Healing Potion
+  entryFileName: Healing Potion_ITEM
+  entryDisplayName: Healing Potion
+  entryIcon: {fileID: 21300000, guid: 758656f4df641c9499f11dd49416e55d, type: 3}
+  entryDescription: Heal for 50 health over 10 seconds.
+  _name: 
+  _fileName: 
+  displayName: 
+  icon: {fileID: 0}
+  equipmentSlot: 
+  ArmorSlot: {fileID: 11400000, guid: 809a50269aa90f14d96b4bfbbb282b92, type: 2}
+  itemType: 
+  ItemType: {fileID: 11400000, guid: 5e2ebc6b5844dd048884ded8befc8c61, type: 2}
+  weaponType: 
+  WeaponType: {fileID: 0}
+  armorType: 
+  ArmorType: {fileID: 11400000, guid: b3e9dece47ba97945968b015c97df10d, type: 2}
+  slotType: 
+  WeaponSlot: {fileID: 0}
+  rarity: 
+  ItemRarity: {fileID: 11400000, guid: b9b172d058039c24aa4ef8c9bff358cb, type: 2}
+  itemModelName: 
+  weaponModel: {fileID: 0}
+  modelMaterial: {fileID: 0}
+  weaponPositionDatas: []
+  showWeaponPositionData: 0
+  WeaponTransforms: []
+  UseWeaponTransformTemplate: 0
+  WeaponTransformTemplate: {fileID: 0}
+  AttackSpeed: 0
+  minDamage: 0
+  maxDamage: 0
+  autoAttackAbilityID: -1
+  stats: []
+  randomStats: []
+  randomStatsMax: 0
+  sellPrice: 1
+  convertToCurrency: -1
+  sellCurrencyID: 0
+  buyPrice: 0
+  buyCurrencyID: -1
+  stackLimit: 25
+  description: 
+  dropInWorld: 0
+  itemWorldModel: {fileID: 0}
+  durationInWorld: 60
+  worldInteractableLayer: 0
+  enchantmentID: -1
+  isEnchantmentConsumed: 0
+  sockets: []
+  gemData:
+    socketType: 
+    GemSocketType: {fileID: 0}
+    gemStats: []
+  Requirements:
+  - Requirements:
+    - type: 17
+      condition: 0
+      AbilityID: -1
+      BonusID: -1
+      RecipeID: -1
+      ResourceID: -1
+      EffectID: -1
+      NPCID: -1
+      StatID: -1
+      FactionID: -1
+      ComboID: -1
+      RaceID: -1
+      LevelsID: -1
+      ClassID: -1
+      SpeciesID: -1
+      ItemID: 13
+      CurrencyID: -1
+      PointID: -1
+      TalentTreeID: -1
+      SkillID: -1
+      SpellbookID: -1
+      WeaponTemplateID: -1
+      EnchantmentID: -1
+      GearSetID: -1
+      GameSceneID: -1
+      QuestID: -1
+      DialogueID: -1
+      Knowledge: 0
+      State: 0
+      Comparison: 0
+      Value: 0
+      Ownership: 0
+      ItemCondition: 0
+      Progression: 0
+      Entity: 0
+      PointType: 0
+      DialogueNodeState: 0
+      EffectCondition: 0
+      AmountType: 0
+      TimeType: 0
+      TimeValue: 0
+      Amount1: 1
+      Amount2: 0
+      Float1: 0
+      Consume: 1
+      BoolBalue1: 0
+      BoolBalue2: 1
+      BoolBalue3: 0
+      IsPercent: 0
+      EffectTag: {fileID: 0}
+      EffectType: 0
+      FactionStance: {fileID: 0}
+      ItemType: {fileID: 0}
+      WeaponType: {fileID: 0}
+      WeaponSlot: {fileID: 0}
+      ArmorType: {fileID: 0}
+      ArmorSlot: {fileID: 0}
+      Gender: {fileID: 0}
+      QuestState: 0
+      DialogueNode: {fileID: 0}
+      NPCFamily: {fileID: 0}
+      Region: {fileID: 0}
+      TimeRequirement1:
+        CheckYear: 0
+        CheckMonth: 0
+        CheckWeek: 0
+        CheckDay: 0
+        CheckHour: 0
+        CheckMinute: 0
+        CheckSecond: 0
+        CheckGlobalSpeed: 0
+        Year: 0
+        Month: 0
+        Week: 0
+        Day: 0
+        Hour: 0
+        Minute: 0
+        Second: 0
+        GlobalSpeed: 0
+      TimeRequirement2:
+        CheckYear: 0
+        CheckMonth: 0
+        CheckWeek: 0
+        CheckDay: 0
+        CheckHour: 0
+        CheckMinute: 0
+        CheckSecond: 0
+        CheckGlobalSpeed: 0
+        Year: 0
+        Month: 0
+        Week: 0
+        Day: 0
+        Hour: 0
+        Minute: 0
+        Second: 0
+        GlobalSpeed: 0
+    checkCount: 0
+    requiredCount: 0
+  UseRequirementsTemplate: 0
+  RequirementsTemplate: {fileID: 0}
+  actionAbilities: []
+  GameActions:
+  - type: 4
+    chance: 100
+    AbilityID: -1
+    BonusID: -1
+    RecipeID: -1
+    ResourceID: -1
+    EffectID: 10
+    NPCID: -1
+    FactionID: -1
+    ItemID: -1
+    CurrencyID: -1
+    PointID: -1
+    TalentTreeID: -1
+    SkillID: -1
+    WeaponTemplateID: -1
+    QuestID: -1
+    DialogueID: -1
+    GameSceneID: -1
+    AbilityAction: 0
+    NodeAction: 0
+    ProgressionType: 0
+    TreeAction: 0
+    LevelAction: 0
+    EffectAction: 0
+    NPCAction: 0
+    FactionAction: 0
+    AlterAction: 0
+    QuestAction: 0
+    CompletionAction: 0
+    DialogueAction: 0
+    GameObjectAction: 0
+    CombatStateAction: 0
+    TimeAction: 0
+    SpawnTypes: 0
+    TeleportType: 0
+    FactionStance: {fileID: 0}
+    DialogueNode: {fileID: 0}
+    GameObject: {fileID: 0}
+    stringValue1: 
+    Position: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0}
+    VisualEffectEntry:
+      Template: {fileID: 0}
+      ActivationType: 0
+      UseNodeSocket: 0
+      NodeSocket: {fileID: 0}
+      ParentedToCaster: 0
+      PositionOffset: {x: 0, y: 0, z: 0}
+      Scale: {x: 1, y: 1, z: 1}
+      Endless: 0
+      Duration: 5
+      Delay: 0
+    AnimationEntry:
+      Template: {fileID: 0}
+      ActivationType: 0
+      Delay: 0
+      ShowWeapons: 0
+      ShowWeaponsDuration: 0
+      ModifySpeed: 0
+      SpeedParameterName: AttackAnimationsSpeed
+      ModifierSpeed: 1
+    SoundEntry:
+      Template: {fileID: 0}
+      ActivationType: 0
+      Delay: 0
+      Parented: 0
+    Amount: 0
+    Amount2: 0
+    FloatValue1: 0
+    BoolBalue1: 0
+  UseGameActionsTemplate: 0
+  GameActionsTemplate: {fileID: 0}
+  BodyCullingTemplate: {fileID: 0}

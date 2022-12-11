@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3c56775ee7b8ea4480dad0fa94225d2, type: 3}
+  m_Name: HealingTypes
+  m_EditorClassIdentifier: 
+  ModuleName: Healing Types
+  EntryType: HealingType
+  TypeName: RPGBHealingType
+  AssetFolderName: Types
+  AssetNameSuffix: _HEALING_TYPE
+  OldFolderName: 
+  IDFileName: 
+  OldIDFileName: 
+  DocumentationLink: 
+  IsSettingModule: 0
+  IsTypeModule: 1
+  IsEnabled: 1
+  ShowIconInList: 0
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: 
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 0
+  ShowFiltersButton: 0
+  databaseEntries:
+  - {fileID: 11400000, guid: 7e36fafc0ed3601489eb73c804061bed, type: 2}

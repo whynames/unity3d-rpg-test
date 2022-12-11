@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 444d447bb1193894fac16043767b8fd5, type: 3}
+  m_Name: Currencies
+  m_EditorClassIdentifier: 
+  ModuleName: Currencies
+  EntryType: Currency
+  TypeName: RPGCurrency
+  AssetFolderName: Currencies
+  AssetNameSuffix: _CURRENCY
+  IDFileName: Currencies_ID
+  OldIDFileName: CurrenciesIDs
+  DocumentationLink: https://blink.developerhub.io/rpg-builder/currencies
+  IsSettingModule: 0
+  IsTypeModule: 0
+  IsEnabled: 1
+  ShowIconInList: 1
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: CurrencyID
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 1
+  ShowFiltersButton: 1
+  databaseEntries:
+  - {fileID: 11400000, guid: 3867fead1dc71464f8d362779b4029be, type: 2}

@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e6b0bd28cdba664792f9263cd5a9dd1, type: 3}
+  m_Name: StopSprint_GAME_ACTIONS
+  m_EditorClassIdentifier: 
+  ID: -1
+  entryName: StopSprint
+  entryFileName: StopSprint_GAME_ACTIONS
+  entryDisplayName: 
+  entryIcon: {fileID: 0}
+  entryDescription: 
+  GameActions:
+  - type: 25
+    chance: 100
+    AbilityID: -1
+    BonusID: -1
+    RecipeID: -1
+    ResourceID: -1
+    EffectID: -1
+    NPCID: -1
+    FactionID: -1
+    ItemID: -1
+    CurrencyID: -1
+    PointID: -1
+    TalentTreeID: -1
+    SkillID: -1
+    WeaponTemplateID: -1
+    QuestID: -1
+    DialogueID: -1
+    GameSceneID: -1
+    AbilityAction: 0
+    NodeAction: 0
+    ProgressionType: 0
+    TreeAction: 0
+    LevelAction: 0
+    EffectAction: 0
+    NPCAction: 0
+    FactionAction: 0
+    AlterAction: 0
+    QuestAction: 0
+    CompletionAction: 0
+    DialogueAction: 0
+    GameObjectAction: 0
+    CombatStateAction: 0
+    TimeAction: 0
+    SpawnTypes: 0
+    TeleportType: 0
+    FactionStance: {fileID: 0}
+    DialogueNode: {fileID: 0}
+    GameObject: {fileID: 0}
+    stringValue1: 
+    Position: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0}
+    VisualEffectEntry:
+      Template: {fileID: 0}
+      ActivationType: 0
+      UseNodeSocket: 0
+      NodeSocket: {fileID: 0}
+      ParentedToCaster: 0
+      PositionOffset: {x: 0, y: 0, z: 0}
+      Scale: {x: 1, y: 1, z: 1}
+      Endless: 0
+      Duration: 5
+      Delay: 0
+    AnimationEntry:
+      Template: {fileID: 0}
+      ActivationType: 0
+      Delay: 0
+      ShowWeapons: 0
+      ShowWeaponsDuration: 0
+      ModifySpeed: 0
+      SpeedParameterName: AttackAnimationsSpeed
+      ModifierSpeed: 1
+    SoundEntry:
+      Template: {fileID: 0}
+      ActivationType: 0
+      Delay: 0
+      Parented: 0
+    Amount: 0
+    Amount2: 0
+    FloatValue1: 0
+    BoolBalue1: 0

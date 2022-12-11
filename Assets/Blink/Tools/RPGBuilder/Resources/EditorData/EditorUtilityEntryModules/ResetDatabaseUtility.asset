@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3809f1e07952ba49a66ca32454222ec, type: 3}
+  m_Name: ResetDatabaseUtility
+  m_EditorClassIdentifier: 
+  ModuleName: Database Actions
+  EntryType: ResetDatabase
+  TypeName: 
+  AssetFolderName: Utilities
+  AssetNameSuffix: 
+  OldFolderName: 
+  IDFileName: 
+  OldIDFileName: 
+  DocumentationLink: 
+  IsSettingModule: 1
+  IsTypeModule: 0
+  IsEnabled: 1
+  ShowIconInList: 0
+  ExportEnabled: 0
+  ImportEnabled: 0
+  EntryAttributeName: 
+  ShowEntrySearchBar: 0
+  ShowSaveButton: 0
+  ShowNewButton: 0
+  ShowDuplicateButton: 0
+  ShowDeleteButton: 0
+  ShowDocumentationButton: 0
+  ShowFiltersButton: 0
+  databaseEntries:
+  - {fileID: 0}

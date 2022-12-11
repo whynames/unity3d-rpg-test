@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 901e672b392df224382e4165aa29e011, type: 3}
+  m_Name: OneHandedAxe_WEAPON_TRANSFORM
+  m_EditorClassIdentifier: 
+  ID: -1
+  entryName: OneHandedAxe
+  entryFileName: OneHandedAxe_WEAPON_TRANSFORM
+  entryDisplayName: 
+  entryIcon: {fileID: 0}
+  entryDescription: 
+  WeaponTransforms:
+  - raceID: 0
+    transformValues:
+    - gender: {fileID: 11400000, guid: 6af37385c57329640bdb53dd75cf6921, type: 2}
+      CombatPosition: {x: 0, y: 0, z: 0}
+      CombatRotation: {x: 0, y: 0, z: 0}
+      CombatScale: {x: 1, y: 1, z: 1}
+      RestPosition: {x: 0, y: 0, z: 0}
+      RestRotation: {x: -0.0009965203, y: 0.00914456, z: 209.9922}
+      RestScale: {x: 1, y: 1, z: 1}
+      CombatPosition2: {x: -0.014, y: 0.002, z: 0.019}
+      CombatRotation2: {x: 0.000004099969, y: -0.000010517717, z: 351.03775}
+      CombatScale2: {x: 1, y: 1, z: 1}
+      RestPosition2: {x: 0, y: 0, z: 0}
+      RestRotation2: {x: 359.98282, y: 0.15777346, z: 209.86508}
+      RestScale2: {x: 1, y: 1, z: 1}

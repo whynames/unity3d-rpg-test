@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eaea086ce51ea9419be768c6237eedb, type: 3}
+  m_Name: Bear_NPC
+  m_EditorClassIdentifier: 
+  ID: 2
+  entryName: Bear
+  entryFileName: Bear_NPC
+  entryDisplayName: Bear
+  entryIcon: {fileID: 21300000, guid: 78251da1960ddb941be2d261d12a1b0d, type: 3}
+  entryDescription: 
+  _name: 
+  _fileName: 
+  displayName: 
+  icon: {fileID: 0}
+  npcType: 0
+  AILogicTemplate: {fileID: 262611205548413635, guid: 42a8b97728201df44ba95376d46032e3,
+    type: 3}
+  Phases:
+  - PhaseTemplate: {fileID: 11400000, guid: 529b5f7684769d5419996db59c8c7723, type: 2}
+    Preset: {fileID: 11400000, guid: 8f657c3479e2e064e8ffb5d5d8e5c6a6, type: 2}
+  ResetPhaseAfterCombat: 0
+  InstantlyHealAfterCombat: 1
+  isDummyTarget: 0
+  factionID: 1
+  speciesID: -1
+  merchantTableID: -1
+  MerchantTables: []
+  dialogueID: -1
+  questGiven: []
+  questCompleted: []
+  MinRespawn: 25
+  MaxRespawn: 60
+  corpseDespawnTime: 25
+  MinEXP: 2
+  MaxEXP: 4
+  LowerLevelEXPModifier: 20
+  HigherLevelEXPModifier: -20
+  EXPBonusPerLevel: 2
+  lootBagPrefab: {fileID: 0}
+  LootBagDuration: 60
+  factionRewards: []
+  MinLevel: 1
+  MaxLevel: 3
+  isScalingWithPlayer: 0
+  stats: []
+  CustomStats:
+  - statID: 0
+    overrideMinValue: 0
+    minValue: 0
+    overrideMaxValue: 1
+    maxValue: 500
+    overrideStartPercentage: 0
+    startPercentage: 100
+    addedValue: 0
+    valuePerLevel: 0
+    Percent: 0
+    chance: 100
+    vitalityActions: []
+  UseStatListTemplate: 0
+  StatListTemplate: {fileID: 0}
+  lootTables:
+  - lootTableID: 1
+    dropRate: 100
+  - lootTableID: 2
+    dropRate: 100
+  - lootTableID: 4
+    dropRate: 100
+  - lootTableID: 5
+    dropRate: 100
+  isCombatEnabled: 1
+  isMovementEnabled: 0
+  isCollisionEnabled: 0
+  isTargetable: 1
+  isNameplateEnabled: 1
+  isPlayerInteractable: 0
+  isMerchant: 0
+  isQuestGiver: 0
+  isDialogue: 0
+  MerchantText: Show me your goods.
+  QuestText: Can I do something for you?
+  DialogueText: Tell me your story.
+  NPCVisual: {fileID: 0}
+  modelPosition: {x: 0, y: 0, z: 0}
+  modelScale: {x: 1, y: 1, z: 1}
+  nameplateYOffset: 1.5
+  RendererName: 
+  animatorController: {fileID: 0}
+  animatorAvatar: {fileID: 0}
+  animatorUseRootMotion: 0
+  animatorUpdateMode: 0
+  AnimatorCullingMode: 0
+  navmeshAgentRadius: 0.5
+  navmeshAgentHeight: 2
+  navmeshAgentAngularSpeed: 400
+  navmeshObstacleAvoidance: 0
+  colliderType: 0
+  colliderCenter: {x: 0, y: 0, z: 0}
+  colliderSize: {x: 0, y: 0, z: 0}
+  colliderRadius: 1
+  colliderHeight: 2
+  aggroLinks:
+  - type: 0
+    npcID: 2
+    npcFamily: {fileID: 0}
+    maxDistance: 5
+  SetLayer: 0
+  SetTag: 0
+  GameObjectLayer: 0
+  GameObjectTag: Untagged
+  npcFamily: {fileID: 0}

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2dcac71a99bed943bb72a1aa817d376, type: 3}
+  m_Name: NPCs
+  m_EditorClassIdentifier: 
+  ModuleName: NPCs
+  EntryType: NPC
+  TypeName: RPGNpc
+  AssetFolderName: NPCs
+  AssetNameSuffix: _NPC
+  IDFileName: NPCs_ID
+  OldIDFileName: NPCsIDs
+  DocumentationLink: https://blink.developerhub.io/rpg-builder/npcs
+  IsSettingModule: 0
+  IsTypeModule: 0
+  IsEnabled: 1
+  ShowIconInList: 1
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: NPCID
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 1
+  ShowFiltersButton: 1
+  databaseEntries:
+  - {fileID: 11400000, guid: 2eca8a96186c7b1498cf18be9e797a70, type: 2}
+  - {fileID: 11400000, guid: 16ef765db4ea1b1428d2d0b418670181, type: 2}
+  - {fileID: 11400000, guid: 7314573da6c68f348a0cfd894ecb45bf, type: 2}
+  - {fileID: 11400000, guid: d92a78b3402535146803cacf5fbb559c, type: 2}
+  - {fileID: 11400000, guid: 8fe76eab07c434e44a51009f13ad1e0b, type: 2}
+  - {fileID: 11400000, guid: 07d036cb1f14f7849a38308cb0e96b42, type: 2}
+  - {fileID: 11400000, guid: 4eef4bdec6a212f4c9946f8684518c19, type: 2}
+  - {fileID: 11400000, guid: b1023294d9f36cc48ab939566dd14ce8, type: 2}
+  - {fileID: 11400000, guid: dba21b894c7607a4aab8d3d36fe8021b, type: 2}
+  - {fileID: 11400000, guid: 61fcf107e09f3374cb915eb7117caf37, type: 2}
+  - {fileID: 11400000, guid: 3eeb789ef9cb72d49b501c8af6cfa5c3, type: 2}
+  - {fileID: 11400000, guid: edea6d54abc4b68409bb429409f27a4b, type: 2}
+  - {fileID: 11400000, guid: 54747d48d84117e42a67f6e889c9680c, type: 2}

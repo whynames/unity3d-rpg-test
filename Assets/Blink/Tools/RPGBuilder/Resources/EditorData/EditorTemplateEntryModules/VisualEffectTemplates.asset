@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81494baa27b601a42ac13f44d11dd653, type: 3}
+  m_Name: VisualEffectTemplates
+  m_EditorClassIdentifier: 
+  ModuleName: Visual Effects
+  EntryType: VisualEffect
+  TypeName: VisualEffectTemplate
+  AssetFolderName: VisualEffects
+  AssetNameSuffix: _VISUAL_EFFECT
+  OldFolderName: 
+  IDFileName: 
+  OldIDFileName: 
+  DocumentationLink: https://blink.developerhub.io/rpg-builder/visual-effect-templates
+  IsSettingModule: 0
+  IsTypeModule: 1
+  IsEnabled: 1
+  ShowIconInList: 0
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: 
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 1
+  ShowFiltersButton: 0
+  databaseEntries:
+  - {fileID: 11400000, guid: 27bdcee0fe0b9b242b164170e6f91390, type: 2}
+  - {fileID: 11400000, guid: 162c02c5f900a434fb59c21313468f6a, type: 2}
+  - {fileID: 11400000, guid: 3ea225aef602afc47872aeef1d636d14, type: 2}
+  - {fileID: 11400000, guid: e47b91e45a3819e43bc3b18f0b5017c7, type: 2}
+  - {fileID: 11400000, guid: 86aa551eeba4cb94c906e93aa3d34270, type: 2}
+  - {fileID: 11400000, guid: eda3eceef4741c1408bccbc27d243a2f, type: 2}
+  - {fileID: 11400000, guid: 352a637f66ad3b8458a1a9a21fcd4ef0, type: 2}
+  - {fileID: 11400000, guid: 82d0b81fb7d56c3448746150546e9ff3, type: 2}
+  - {fileID: 11400000, guid: aedf5f81ec1f3a64ab78242f57f58edc, type: 2}
+  - {fileID: 11400000, guid: 850371c7776d0594cb39d2d58712bef8, type: 2}
+  - {fileID: 11400000, guid: 3c29bee060687b64eb9012b87358facd, type: 2}
+  - {fileID: 11400000, guid: 40fc34a9e424cd34c982ee933eb22c22, type: 2}
+  - {fileID: 11400000, guid: 3862d98684e90e84c8b3a85f2d4152b8, type: 2}
+  - {fileID: 11400000, guid: 5f5cec3b6cf3ea04e9c980fa4faf1db6, type: 2}
+  - {fileID: 11400000, guid: 1f52d32b43fac8142946f207151bd0b5, type: 2}
+  - {fileID: 11400000, guid: eb69c18e5daa04c4dbbcef7679dbb27a, type: 2}
+  - {fileID: 11400000, guid: 993629e1d1e083045bede85461b69612, type: 2}
+  - {fileID: 11400000, guid: 77632a103a5a3624f90f822c186ba9f6, type: 2}
+  - {fileID: 11400000, guid: e643b02dd2ad2c445a81513d9d64f48f, type: 2}
+  - {fileID: 11400000, guid: cf344f9e99e647f4a91f7a09bbeec252, type: 2}
+  - {fileID: 11400000, guid: 201efa0cb10cb4d49b6d23772771d6ba, type: 2}
+  - {fileID: 11400000, guid: 6e4a415468211854d97776f1836ba346, type: 2}
+  - {fileID: 11400000, guid: aa8ff478588fd8949b71da28e6c07d26, type: 2}
+  - {fileID: 11400000, guid: 7ee3ff22a90d2604ab4b0693d43ae741, type: 2}
+  - {fileID: 11400000, guid: 68350fc7ad1120049a156e70b438e409, type: 2}
+  - {fileID: 11400000, guid: a68b43331b47aa646b59da2b31ff363b, type: 2}
+  - {fileID: 11400000, guid: f0148fa45de3fef4a92ed711359fe69e, type: 2}
+  - {fileID: 11400000, guid: af09f02b76c5510499b7c1461d5e2022, type: 2}
+  - {fileID: 11400000, guid: cd4c642c4b1af9f4abd5905cea326cd5, type: 2}

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f8501895631f524fa100f8ded8ef765, type: 3}
+  m_Name: ArmorSlots
+  m_EditorClassIdentifier: 
+  ModuleName: Armor Slots
+  EntryType: ArmorSlots
+  TypeName: RPGBArmorSlot
+  AssetFolderName: Types
+  AssetNameSuffix: _ARMOR_SLOT
+  OldFolderName: 
+  IDFileName: 
+  OldIDFileName: 
+  DocumentationLink: 
+  IsSettingModule: 0
+  IsTypeModule: 1
+  IsEnabled: 1
+  ShowIconInList: 0
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: 
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 0
+  ShowFiltersButton: 0
+  databaseEntries:
+  - {fileID: 11400000, guid: e696a8d8c9d206546baf5280aa12fa6d, type: 2}
+  - {fileID: 11400000, guid: a891c71a076f83e42be9c90da19179ea, type: 2}
+  - {fileID: 11400000, guid: 9c93e5bd12d0dee4f885166f30ddc27a, type: 2}
+  - {fileID: 11400000, guid: 972c3528d4b64e742a6c49e8d33a6e5b, type: 2}
+  - {fileID: 11400000, guid: 91ff754311382dd41a15cf5dc8e48362, type: 2}
+  - {fileID: 11400000, guid: 7e5661de778da414b885438b115a1392, type: 2}

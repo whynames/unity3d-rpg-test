@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfea309fb49ee4b4aa219db7690d2f2b, type: 3}
+  m_Name: Bear_BEHAVIOR
+  m_EditorClassIdentifier: 
+  ID: -1
+  entryName: Bear
+  entryFileName: Bear_BEHAVIOR
+  entryDisplayName: 
+  entryIcon: {fileID: 0}
+  entryDescription: 
+  DefaultState: {fileID: 11400000, guid: 4a18af7f08abd654eb345182b55f67ed, type: 2}
+  DefaultStateTemplate: {fileID: 11400000, guid: d9419bff213ef2b4aa5b5585a2f6be0d,
+    type: 2}
+  DefaultPetState: {fileID: 0}
+  DefaultPetStateTemplate: {fileID: 0}
+  ChaseState: {fileID: 11400000, guid: da1c5b016655e014aa0caafd0bb26ed2, type: 2}
+  ChaseTemplate: {fileID: 11400000, guid: 35f20e6471a66424d8988ba8846d5741, type: 2}
+  CombatIdleState: {fileID: 11400000, guid: d89f31ada7ebd884fabca8865eb99ef8, type: 2}
+  CombatIdleTemplate: {fileID: 11400000, guid: 8e415c658b825cf4abad478bd8cf1efd, type: 2}
+  CombatState: {fileID: 11400000, guid: 97f4d20d0de89eb4b9a5986b33b37896, type: 2}
+  CombatTemplate: {fileID: 11400000, guid: eb087b04b8591874185fbd0232b6c9ca, type: 2}
+  WalkBackwardState: {fileID: 11400000, guid: a375df129f994a047ba946b6ddeec806, type: 2}
+  WalkBackwardTemplate: {fileID: 11400000, guid: 8d0be0df8612a794897e9cdbcf812aae,
+    type: 2}
+  FleeState: {fileID: 0}
+  FleeTemplate: {fileID: 0}
+  FleeRequirementsTemplate: {fileID: 0}
+  FleeCheckInterval: 3
+  PotentialAbilities:
+  - AbilitiesTemplate: {fileID: 11400000, guid: fb29fa7e85ecd32428501d7475f285c8,
+      type: 2}
+    chance: 100
+  MaxDistanceFromTarget: 3
+  MinDistanceFromTarget: 2
+  LookAtTargetSpeed: 25
+  CheckTargetInterval: 0.5
+  ResetTargetAfterDistanceFromSpawner: 0
+  SpawnerDistanceMax: 30
+  ResetTargetAfterDistanceFromSpawnpoint: 0
+  SpawnPointDistanceMax: 50
+  StrafeParameterName: Strafing
+  CombatParameterName: InCombatState
+  CanAggroAlly: 0
+  CanAggroNeutral: 0
+  CanAggroEnemy: 1
+  PhaseCheckInterval: 3

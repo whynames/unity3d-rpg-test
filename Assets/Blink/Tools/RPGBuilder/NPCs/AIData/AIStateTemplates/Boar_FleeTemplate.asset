@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2480646fb9a54964d8735fe3b61b5e06, type: 3}
+  m_Name: Boar_FleeTemplate
+  m_EditorClassIdentifier: 
+  FleeDistanceMax: 40
+  FleePointTreshold: 1
+  FleeDuration: 10
+  FleePointPauseDuration: 2
+  FleeTargetCheckInterval: 0.25
+  FleeGroundLayers:
+    serializedVersion: 2
+    m_Bits: 512
+  CallForHelp: 1
+  CallForHelpDistance: 15
+  HelpingNPCList:
+  - {fileID: 11400000, guid: 24eb6a277c7a6d346b3cee0859a0c6c0, type: 2}
+  HelpingNPCFamilies: []
+  MovementSpeedModifier: 1.1

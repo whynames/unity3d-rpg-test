@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a10f5e31ab9014dae6a522f40b3117, type: 3}
+  m_Name: WeaponHandSlots
+  m_EditorClassIdentifier: 
+  ModuleName: Weapon Hand Slots
+  EntryType: WeaponHandSlots
+  TypeName: RPGBWeaponHandSlot
+  AssetFolderName: Types
+  AssetNameSuffix: _WEAPON_HAND_SLOT
+  OldFolderName: 
+  IDFileName: 
+  OldIDFileName: 
+  DocumentationLink: 
+  IsSettingModule: 0
+  IsTypeModule: 1
+  IsEnabled: 1
+  ShowIconInList: 0
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: 
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 0
+  ShowFiltersButton: 0
+  databaseEntries:
+  - {fileID: 11400000, guid: 193acfeeadaaf0442ac5d2fc43c179c8, type: 2}
+  - {fileID: 11400000, guid: 652cec4b692b9674ab95db33c934a9dc, type: 2}
+  - {fileID: 11400000, guid: 4eb7755a74f4c884782d167279eb8896, type: 2}
+  - {fileID: 11400000, guid: 66a8c9030c91a5549a990933ab36dc21, type: 2}

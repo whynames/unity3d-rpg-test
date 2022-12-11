@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed804d5e4e27ad64992bb2f01f49fff1, type: 3}
+  m_Name: Economy
+  m_EditorClassIdentifier: 
+  CategoryName: Economy
+  OrderIndex: 2
+  IsEnabled: 1
+  IsExpanded: 0
+  IsDatabaseCategory: 1
+  modules:
+  - {fileID: 11400000, guid: b687a74c985796a4c98ba2f7a89b0f7a, type: 2}
+  - {fileID: 11400000, guid: 9406a83e32ac81744a769ebc4964f97c, type: 2}
+  - {fileID: 11400000, guid: f20ca38b3f292bc4189f2592938a0d31, type: 2}
+  - {fileID: 11400000, guid: 25fd9b7f05a25ca4aa91eb5636bd7bde, type: 2}

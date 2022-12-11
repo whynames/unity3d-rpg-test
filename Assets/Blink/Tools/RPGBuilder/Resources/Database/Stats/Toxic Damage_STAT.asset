@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8397832a421b4aa4bb023b431fc81370, type: 3}
+  m_Name: Toxic Damage_STAT
+  m_EditorClassIdentifier: 
+  ID: 12
+  entryName: Toxic Damage
+  entryFileName: Toxic Damage_STAT
+  entryDisplayName: Toxic Damage
+  entryIcon: {fileID: 0}
+  entryDescription: The amount of extra damage dealt by Toxic abilities.
+  _name: Toxic Damage
+  _fileName: RPG_STAT_Toxic Damage
+  displayName: Toxic Damage
+  description: The amount of extra damage dealt by Toxic abilities.
+  minCheck: 1
+  minValue: 0
+  maxCheck: 0
+  maxValue: 0
+  baseValue: 0
+  isShiftingInSprint: 1
+  isShiftingInBlock: 1
+  isShiftingOutsideCombat: 0
+  isShiftingInCombat: 0
+  shiftAmountOutsideCombat: 0
+  shiftIntervalOutsideCombat: 0
+  shiftAmountInCombat: 0
+  shiftIntervalInCombat: 0
+  startPercentage: 100
+  isPercentStat: 0
+  IsPersistent: 0
+  vitalityActions: []
+  onHitEffectsData: []
+  isVitalityStat: 0
+  statBonuses:
+  - statType: 1
+    modifyValue: 1
+    MainDamageType: 0
+    CustomDamageType: {fileID: 11400000, guid: e0546cc4abd8f024db09534593a11875, type: 2}
+    CustomHealingType: {fileID: 0}
+    ResistanceStatID: -1
+    PenetrationStatID: -1
+    statID: -1
+  StatUICategory: Offense
+  StatCategory: {fileID: 11400000, guid: 62fc0e2006d36f24c911ad4b5b0c69a5, type: 2}

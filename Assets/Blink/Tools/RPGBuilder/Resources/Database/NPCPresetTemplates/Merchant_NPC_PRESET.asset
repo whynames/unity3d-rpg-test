@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccfcbfff05fa1f94eaa371eb19ed6547, type: 3}
+  m_Name: Merchant_NPC_PRESET
+  m_EditorClassIdentifier: 
+  ID: -1
+  entryName: Merchant
+  entryFileName: Merchant_NPC_PRESET
+  entryDisplayName: 
+  entryIcon: {fileID: 21300000, guid: 99b6e228ccaefa046a4dfea4a9e2dba2, type: 3}
+  entryDescription: 
+  Prefab: {fileID: 6567944329739133013, guid: aea4cbbced008814c91083b6accb27f3, type: 3}
+  Position: {x: 0, y: -0.06, z: 0}
+  Scale: {x: 1, y: 1, z: 1}
+  NameplateYOffset: 2
+  NameplateDistance: 50
+  RendererName: Body
+  AnimatorController: {fileID: 22100000, guid: 747736c5df2123c40baa3ef95ab90389, type: 2}
+  AnimatorAvatar: {fileID: 9000000, guid: 3443a9693cfcd8a4fbd4cbbee065454d, type: 3}
+  AnimatorUseRootMotion: 0
+  AnimatorUpdateMode: 0
+  AnimatorCullingMode: 0
+  NavmeshAgentRadius: 0.5
+  NavmeshAgentHeight: 2
+  NavmeshAgentAngularSpeed: 500
+  NavmeshObstacleAvoidance: 0
+  ColliderType: 0
+  ColliderCenter: {x: 0, y: 1, z: 0}
+  ColliderSize: {x: 0, y: 0, z: 0}
+  ColliderRadius: 0.5
+  ColliderHeight: 2
+  InteractionDistanceMax: 3

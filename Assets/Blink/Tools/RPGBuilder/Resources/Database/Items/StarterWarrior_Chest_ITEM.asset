@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ada825255f0166f4c9c8124a0f1e2448, type: 3}
+  m_Name: StarterWarrior_Chest_ITEM
+  m_EditorClassIdentifier: 
+  ID: 0
+  entryName: StarterWarrior_Chest
+  entryFileName: StarterWarrior_Chest_ITEM
+  entryDisplayName: Starter Chest
+  entryIcon: {fileID: 21300000, guid: 0d031d418b71f1c47b429651406bb3ef, type: 3}
+  entryDescription: 
+  _name: 
+  _fileName: 
+  displayName: 
+  icon: {fileID: 0}
+  equipmentSlot: 
+  ArmorSlot: {fileID: 11400000, guid: 9c93e5bd12d0dee4f885166f30ddc27a, type: 2}
+  itemType: 
+  ItemType: {fileID: 11400000, guid: 9bd1dcda4e2f072498f53570ab2d5e5f, type: 2}
+  weaponType: 
+  WeaponType: {fileID: 0}
+  armorType: 
+  ArmorType: {fileID: 11400000, guid: 78540823b49a0294bbbe84a8a014a982, type: 2}
+  slotType: 
+  WeaponSlot: {fileID: 0}
+  rarity: 
+  ItemRarity: {fileID: 11400000, guid: 9fe2887c3181d5146a74e57b1a55a22d, type: 2}
+  itemModelName: Starter_Chest
+  weaponModel: {fileID: 0}
+  modelMaterial: {fileID: 2100000, guid: bd95d05da092ee546bb149f526e4d054, type: 2}
+  weaponPositionDatas: []
+  showWeaponPositionData: 0
+  WeaponTransforms: []
+  UseWeaponTransformTemplate: 0
+  WeaponTransformTemplate: {fileID: 0}
+  AttackSpeed: 0
+  minDamage: 0
+  maxDamage: 0
+  autoAttackAbilityID: -1
+  stats:
+  - statID: 20
+    amount: 1
+    isPercent: 0
+  - statID: 0
+    amount: 5
+    isPercent: 0
+  randomStats: []
+  randomStatsMax: 0
+  sellPrice: 0
+  sellCurrencyID: -1
+  buyPrice: 0
+  buyCurrencyID: -1
+  stackLimit: 1
+  description: 
+  dropInWorld: 0
+  itemWorldModel: {fileID: 0}
+  durationInWorld: 60
+  worldInteractableLayer: 0
+  enchantmentID: -1
+  isEnchantmentConsumed: 0
+  sockets: []
+  gemData:
+    socketType: 
+    GemSocketType: {fileID: 0}
+    gemStats: []
+  Requirements: []
+  UseRequirementsTemplate: 0
+  RequirementsTemplate: {fileID: 0}
+  actionAbilities: []
+  GameActions: []
+  UseGameActionsTemplate: 0
+  GameActionsTemplate: {fileID: 0}
+  BodyCullingTemplate: {fileID: 11400000, guid: 886c4d85279b30c4cbc3885992d9184e,
+    type: 2}

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d667dc875334b146aebadb4c97e4198, type: 3}
+  m_Name: Spellbooks
+  m_EditorClassIdentifier: 
+  ModuleName: Spellbooks
+  EntryType: Spellbook
+  TypeName: RPGSpellbook
+  AssetFolderName: Spellbooks
+  AssetNameSuffix: _SPELLBOOK
+  IDFileName: Spellbooks_ID
+  OldIDFileName: SpellbooksIDs
+  DocumentationLink: https://blink.developerhub.io/rpg-builder/spellbooks
+  IsSettingModule: 0
+  IsTypeModule: 0
+  IsEnabled: 1
+  ShowIconInList: 1
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: SpellbookID
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 1
+  ShowFiltersButton: 1
+  databaseEntries:
+  - {fileID: 11400000, guid: 41579705adcf41c4e93e0cf122a9d7ce, type: 2}
+  - {fileID: 11400000, guid: 49079417f5d6102439e7e04063c8f497, type: 2}
+  - {fileID: 11400000, guid: 0e1fc804d763c0649a684238f2c3186d, type: 2}
+  - {fileID: 11400000, guid: cf460e16c1f484349a3d220b73346200, type: 2}
+  - {fileID: 11400000, guid: 3f2efc9401012cf4fa75a482ec7000b6, type: 2}
+  - {fileID: 11400000, guid: 880ba7365028bc1448b59850d73157b3, type: 2}

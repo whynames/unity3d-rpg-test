@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486a667198744f64a9ff8dc9269ee83c, type: 3}
+  m_Name: SkeletonHeal_Pulse_VISUAL_EFFECT
+  m_EditorClassIdentifier: 
+  ID: -1
+  entryName: SkeletonHeal_Pulse
+  entryFileName: SkeletonHeal_Pulse_VISUAL_EFFECT
+  entryDisplayName: 
+  entryIcon: {fileID: 0}
+  entryDescription: 
+  Prefabs:
+  - {fileID: 1547027033286818906, guid: 28cb1dc143ec45d468fbfbfef834b262, type: 3}
+  SoundTemplates: []
+  ParentSoundToPrefab: 0
+  IsDestroyedOnDeath: 0
+  IsDestroyedOnStun: 0
+  IsDestroyedOnStealth: 0
+  IsDestroyedOnStealthEnd: 0

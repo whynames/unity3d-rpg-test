@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4ab0ec329599714ab7e394a14de78b0, type: 3}
+  m_Name: Phase1_PHASE_ACTIONS
+  m_EditorClassIdentifier: 
+  ID: -1
+  entryName: Phase1
+  entryFileName: Phase1_PHASE_ACTIONS
+  entryDisplayName: 
+  entryIcon: {fileID: 0}
+  entryDescription: 
+  PhaseActions:
+  - Activation: 0
+    RequirementsTarget: 1
+    RequirementsTemplate: {fileID: 0}
+    ActionsTarget: 1
+    GameActionsTemplate: {fileID: 11400000, guid: 5b1a5bdc067bd3a419a7d4359ae1d82d,
+      type: 2}

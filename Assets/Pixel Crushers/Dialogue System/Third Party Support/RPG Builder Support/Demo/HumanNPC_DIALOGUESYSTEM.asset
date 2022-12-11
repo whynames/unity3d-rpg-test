@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c809cd9049b6ef64e9ce9ec1c3f97e09, type: 3}
+  m_Name: HumanNPC_DIALOGUESYSTEM
+  m_EditorClassIdentifier: 
+  ID: -1
+  entryName: HumanNPC
+  entryFileName: HumanNPC_DIALOGUESYSTEM
+  entryDisplayName: 
+  entryIcon: {fileID: 0}
+  entryDescription: 
+  HasInteractionConversation: 1
+  Conversation: HumanNPC Story
+  HasInteractionBark: 0
+  BarkSource: 0
+  BarkConversation: 
+  BarkText: 
+  HasIdleBark: 0
+  IdleBarkSource: 0
+  IdleBarkConversation: 
+  IdleBarkText: 
+  MinIdleBark: 5
+  MaxIdleBark: 10
+  BarkOrder: 0
+  CacheBarks: 0

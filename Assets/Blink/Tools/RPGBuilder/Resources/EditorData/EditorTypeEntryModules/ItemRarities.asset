@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 878f013c6832ce54eaaa9300427acb40, type: 3}
+  m_Name: ItemRarities
+  m_EditorClassIdentifier: 
+  ModuleName: Item Rarities
+  EntryType: ItemRarities
+  TypeName: RPGBItemRarity
+  AssetFolderName: Types
+  AssetNameSuffix: _ITEM_RARITY
+  OldFolderName: 
+  IDFileName: 
+  OldIDFileName: 
+  DocumentationLink: 
+  IsSettingModule: 0
+  IsTypeModule: 1
+  IsEnabled: 1
+  ShowIconInList: 0
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: 
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 0
+  ShowFiltersButton: 0
+  databaseEntries:
+  - {fileID: 11400000, guid: 9fe2887c3181d5146a74e57b1a55a22d, type: 2}
+  - {fileID: 11400000, guid: 9e79aedeab4c32b44a6bfa45733d4f72, type: 2}
+  - {fileID: 11400000, guid: 1ba7c644b767724488d7890d0825afd2, type: 2}
+  - {fileID: 11400000, guid: b9b172d058039c24aa4ef8c9bff358cb, type: 2}
+  - {fileID: 11400000, guid: d8fa4083aea515d4c93d838d0d21ac09, type: 2}

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5b4f5fefe4a089ffc5de8d683fad6, type: 3}
+  m_Name: Combos
+  m_EditorClassIdentifier: 
+  ModuleName: Combos
+  EntryType: Combo
+  TypeName: RPGCombo
+  AssetFolderName: Combos
+  AssetNameSuffix: _COMBO
+  IDFileName: Combos_ID
+  OldIDFileName: CombosIDs
+  DocumentationLink: https://blink.developerhub.io/rpg-builder/combo
+  IsSettingModule: 0
+  IsTypeModule: 0
+  IsEnabled: 1
+  ShowIconInList: 0
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: ComboID
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 1
+  ShowFiltersButton: 1
+  databaseEntries:
+  - {fileID: 11400000, guid: 481142d2906318d458864747543ddb4f, type: 2}

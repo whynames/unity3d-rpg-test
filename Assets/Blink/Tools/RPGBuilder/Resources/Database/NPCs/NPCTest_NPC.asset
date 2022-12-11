@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eaea086ce51ea9419be768c6237eedb, type: 3}
+  m_Name: NPCTest_NPC
+  m_EditorClassIdentifier: 
+  ID: 6
+  entryName: NPCTest
+  entryFileName: NPCTest_NPC
+  entryDisplayName: 
+  entryIcon: {fileID: 21300000, guid: 689ff37e77c304645bcddff71a54e47b, type: 3}
+  entryDescription: 
+  _name: 
+  _fileName: 
+  displayName: 
+  icon: {fileID: 0}
+  npcType: 0
+  AILogicTemplate: {fileID: 262611205548413635, guid: 42a8b97728201df44ba95376d46032e3, type: 3}
+  Phases:
+  - PhaseTemplate: {fileID: 11400000, guid: bb11388be06569140beda4b401ddeeee, type: 2}
+    Preset: {fileID: 11400000, guid: e7c8edfe24e980c46a110e065e8a4b8d, type: 2}
+  ResetPhaseAfterCombat: 1
+  InstantlyHealAfterCombat: 1
+  isDummyTarget: 0
+  factionID: 0
+  speciesID: -1
+  merchantTableID: -1
+  MerchantTables: []
+  dialogueID: -1
+  questGiven: []
+  questCompleted: []
+  MinRespawn: 60
+  MaxRespawn: 120
+  corpseDespawnTime: 15
+  MinEXP: 0
+  MaxEXP: 0
+  LowerLevelEXPModifier: 0
+  HigherLevelEXPModifier: 0
+  EXPBonusPerLevel: 0
+  lootBagPrefab: {fileID: 0}
+  LootBagDuration: 60
+  factionRewards: []
+  MinLevel: 1
+  MaxLevel: 2
+  isScalingWithPlayer: 0
+  stats: []
+  CustomStats: []
+  UseStatListTemplate: 0
+  StatListTemplate: {fileID: 0}
+  lootTables: []
+  isCombatEnabled: 1
+  isMovementEnabled: 0
+  isCollisionEnabled: 0
+  isTargetable: 0
+  isNameplateEnabled: 1
+  isPlayerInteractable: 1
+  isMerchant: 0
+  isQuestGiver: 0
+  isDialogue: 0
+  MerchantText: Show me your goods.
+  QuestText: Can I do something for you?
+  DialogueText: Tell me your story.
+  NPCVisual: {fileID: 0}
+  modelPosition: {x: 0, y: 0, z: 0}
+  modelScale: {x: 1, y: 1, z: 1}
+  nameplateYOffset: 1.5
+  RendererName: 
+  animatorController: {fileID: 0}
+  animatorAvatar: {fileID: 0}
+  animatorUseRootMotion: 0
+  animatorUpdateMode: 0
+  AnimatorCullingMode: 0
+  navmeshAgentRadius: 0.5
+  navmeshAgentHeight: 2
+  navmeshAgentAngularSpeed: 400
+  navmeshObstacleAvoidance: 0
+  colliderType: 0
+  colliderCenter: {x: 0, y: 0, z: 0}
+  colliderSize: {x: 0, y: 0, z: 0}
+  colliderRadius: 1
+  colliderHeight: 2
+  aggroLinks: []
+  SetLayer: 0
+  SetTag: 0
+  GameObjectLayer: 0
+  GameObjectTag: Untagged
+  npcFamily: {fileID: 0}

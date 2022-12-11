@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7879f289a49022c49a205a37bcbaf479, type: 3}
+  m_Name: GameModifiers
+  m_EditorClassIdentifier: 
+  ModuleName: Game Modifiers
+  EntryType: GameModifier
+  TypeName: RPGGameModifier
+  AssetFolderName: GameModifiers
+  AssetNameSuffix: _GAME_MODIFIER
+  OldFolderName: 
+  IDFileName: GameModifiers_ID
+  OldIDFileName: GameModifierIDs
+  DocumentationLink: https://blink.developerhub.io/rpg-builder/game-modifiers
+  IsSettingModule: 0
+  IsTypeModule: 0
+  IsEnabled: 1
+  ShowIconInList: 1
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: GameModifierID
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 1
+  ShowFiltersButton: 1
+  databaseEntries: []

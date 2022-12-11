@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 623e280bcb9bfc74ea7fd9ad558f9f40, type: 3}
+  m_Name: RequirementsTemplates
+  m_EditorClassIdentifier: 
+  ModuleName: Requirements
+  EntryType: Requirement
+  TypeName: RequirementsTemplate
+  AssetFolderName: RequirementsTemplates
+  AssetNameSuffix: _REQUIREMENTS
+  OldFolderName: 
+  IDFileName: 
+  OldIDFileName: 
+  DocumentationLink: https://blink.developerhub.io/rpg-builder/requirement-templates
+  IsSettingModule: 0
+  IsTypeModule: 1
+  IsEnabled: 1
+  ShowIconInList: 0
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: 
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 1
+  ShowFiltersButton: 0
+  databaseEntries:
+  - {fileID: 11400000, guid: 6ca514e9717566d4280bc6f6a7808c1c, type: 2}
+  - {fileID: 11400000, guid: 8e1554f714c0f5943ad8c66031456edf, type: 2}
+  - {fileID: 11400000, guid: 024aaeec21ea9b1439152a6a8e8bfb86, type: 2}
+  - {fileID: 11400000, guid: 2d1a5352805feed4680b8146f4df856f, type: 2}
+  - {fileID: 11400000, guid: 403d56eb376ff204db36ab6c56d05a06, type: 2}
+  - {fileID: 11400000, guid: 810927f1fc491f347a422e778af8fa03, type: 2}
+  - {fileID: 11400000, guid: 5bccc64b6a2b8444f98c06e4581a2103, type: 2}

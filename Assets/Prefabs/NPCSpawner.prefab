@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7595815421996189565
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7595815421996189566}
+  - component: {fileID: 7595815421996189567}
+  m_Layer: 0
+  m_Name: NPCSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7595815421996189566
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7595815421996189565}
+  m_LocalRotation: {x: -0, y: 0.9119805, z: -0, w: 0.41023356}
+  m_LocalPosition: {x: 122.355, y: 51.387, z: -150.434}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 131.561, z: 0}
+--- !u!114 &7595815421996189567
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7595815421996189565}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ec49ea537de7e448b93e909daa1bbb3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Saver: {fileID: 0}
+  spawnerType: 0
+  IsActive: 0
+  spawnData:
+  - npc: {fileID: 11400000, guid: bca6f51b6557a424b8e8fffd5e8152a4, type: 2}
+    spawnChance: 100
+    IsPersistent: 0
+  npcCountMax: 1
+  CurrentNPCs: []
+  CurrentPersistentNPCs: []
+  RequirementsTemplate: {fileID: 0}
+  PlayerDistanceMax: 100
+  spawnedCount: 0
+  spawnedCountMax: 0
+  OverrideLevels: 0
+  MinLevel: 1
+  MaxLevel: 2
+  ScaleWithPlayer: 0
+  OverrideFaction: 0
+  Faction: {fileID: 0}
+  OverrideSpecies: 0
+  Species: {fileID: 0}
+  OverrideRespawn: 0
+  MinRespawn: 10
+  MaxRespawn: 20
+  areaRadius: 10
+  areaHeight: 20
+  gizmoColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  lineColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  groundLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  usePosition: 1

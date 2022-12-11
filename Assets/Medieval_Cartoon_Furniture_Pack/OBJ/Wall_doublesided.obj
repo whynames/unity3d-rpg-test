@@ -1,0 +1,29 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 09.02.2014 00:09:35
+
+#
+# object Wall_doublesided
+#
+
+v  -31.3300 -0.0056 -0.0000
+v  31.3300 -0.0056 -0.0000
+v  31.3300 62.6545 -0.0000
+v  -31.3300 62.6545 -0.0000
+# 4 vertices
+
+vn 0.0000 -0.0000 1.0000
+vn 0.0000 0.0000 -1.0000
+# 2 vertex normals
+
+vt 0.0000 0.0000 0.0000
+vt 1.0000 0.0000 0.0000
+vt 1.0000 1.0000 0.0000
+vt 0.0000 1.0000 0.0000
+# 4 texture coords
+
+g Wall_doublesided
+s 1
+f 1/1/1 2/2/1 3/3/1 4/4/1 
+f 1/1/2 4/4/2 3/3/2 2/2/2 
+# 2 polygons
+

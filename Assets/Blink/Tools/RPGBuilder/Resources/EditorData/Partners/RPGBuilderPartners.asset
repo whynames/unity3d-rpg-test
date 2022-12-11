@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 211615af50a386e4cbe7257578b22672, type: 3}
+  m_Name: RPGBuilderPartners
+  m_EditorClassIdentifier: 
+  ID: -1
+  entryName: 
+  entryFileName: 
+  entryDisplayName: 
+  entryIcon: {fileID: 0}
+  entryDescription: 
+  partners:
+  - name: Polyart Studio
+    description: Industry professionals with more than a decade of development experience
+      in game design, art and programming
+    link: https://assetstore.unity.com/publishers/45106
+    email: help@polyart.io
+    image: {fileID: 21300000, guid: 62776a5171f253c4fa49eed6576823a4, type: 3}
+  - name: MalberS Animations
+    description: Independent Asset developer (Really an 3D Generalist/Animator) who
+      loves great animations for games
+    link: https://assetstore.unity.com/publishers/16163
+    email: malbers.shark87@gmail.com
+    image: {fileID: 21300000, guid: ed322adf72b604f41b915de4c9a6131d, type: 3}
+  - name: Gabriel Aguiar Prod
+    description: I strive on creating great quality assets with the best looking
+      aesthetics possible and always with optimization in mind
+    link: https://assetstore.unity.com/publishers/31523
+    email: gabrielaguiarprod@gmail.com
+    image: {fileID: 21300000, guid: 9a29503c51164504aa4beae3132bb4ae, type: 3}
+  - name: BOXOPHOBIC
+    description: Technical 3D Artist with more than 6 years in game development and
+      12 years in 3D art, specialized in shaders and visual effects
+    link: https://assetstore.unity.com/publishers/20529
+    email: boxophobic@gmail.com
+    image: {fileID: 21300000, guid: 1ca58e7eee0c50f47a7a3a5165459e61, type: 3}
+  - name: Staggart Creations
+    description: Providing unique and user-friendly game assets and tools, for fellow
+      game developers and artists alike
+    link: https://assetstore.unity.com/publishers/15580
+    email: 'contact@staggart.xyz '
+    image: {fileID: 21300000, guid: a04ef121836093b47b91447c1fad8117, type: 3}
+  - name: John Stairs
+    description: Developing feature-rich and high-quality RPG cameras and character
+      controllers with much love for detail
+    link: https://assetstore.unity.com/publishers/1799
+    email: mail@johnstairs.com
+    image: {fileID: 21300000, guid: a5b7c5f1eef94ca42989ccf6f2f62e92, type: 3}
+  - name: Cafofo
+    description: Award-winning studio producing original music and sound effects
+      for indie and big companies for five years
+    link: https://assetstore.unity.com/publishers/16881
+    email: hello@cafofomusic.com
+    image: {fileID: 21300000, guid: 5d148aa1531f39647b291ab90fbd0c1d, type: 3}
+  - name: Infinity PBR
+    description: The highest quality, most versatile models
+    link: https://assetstore.unity.com/publishers/4645
+    email: 'contact@infinitypbr.com '
+    image: {fileID: 21300000, guid: 50d2b5a3bab51b040b5ba22694c7fd6f, type: 3}
+  - name: Titan Forge
+    description: Uniquely styled and asthetic assets for you to fill your worlds
+      with
+    link: https://assetstore.unity.com/publishers/45702
+    email: TitanForgeGaming@gmail.com
+    image: {fileID: 21300000, guid: 9e89926d2ee7ef443b27bb77989f3033, type: 3}
+  - name: Poneti
+    description: Hi, I am an enthusiastic 2d artist. I love computer games and I
+      really like turning my ideas into reality by painting them
+    link: https://assetstore.unity.com/publishers/38930
+    email: ponetisup@gmail.com
+    image: {fileID: 21300000, guid: f2b47b102a1d69849b9c0fddca77b1f4, type: 3}

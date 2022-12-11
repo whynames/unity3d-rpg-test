@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b34c651fc3f6c9541ad554fa733c2419, type: 3}
+  m_Name: Progression_Settings
+  m_EditorClassIdentifier: 
+  ID: -1
+  entryName: 
+  entryFileName: 
+  entryDisplayName: 
+  entryIcon: {fileID: 0}
+  entryDescription: 
+  TalentTreeNodesPerTier: 5
+  characterLevelUpPrefab: {fileID: 3795313165698304477, guid: 2722e1b368e55924f8dd06b93a99b58b,
+    type: 3}
+  skillLevelUpPrefab: {fileID: 3795313165698304477, guid: 2722e1b368e55924f8dd06b93a99b58b,
+    type: 3}
+  weaponTemplateLevelUpPrefab: {fileID: 3795313165698304477, guid: 2722e1b368e55924f8dd06b93a99b58b,
+    type: 3}

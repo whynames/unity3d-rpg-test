@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aada8124e065cac4f869802281474d05, type: 3}
+  m_Name: BearBoss_PHASE
+  m_EditorClassIdentifier: 
+  ID: -1
+  entryName: BearBoss
+  entryFileName: BearBoss_PHASE
+  entryDisplayName: 
+  entryIcon: {fileID: 0}
+  entryDescription: 
+  TransitionDuration: 0
+  EnterPhaseRequirementsTemplate: {fileID: 0}
+  PotentialBehaviors:
+  - BehaviorTemplate: {fileID: 11400000, guid: ff2ab1f5829cc7945be90a93d899ba4d, type: 2}
+    chance: 100
+  ActionsTemplate: {fileID: 11400000, guid: f913059040e77134b93971d0747f395f, type: 2}
+  SpawnedAnimationTemplate: {fileID: 0}
+  VisualEffectEntries: []
+  AnimationEntries:
+  - Template: {fileID: 11400000, guid: 6c3e3c7f474255e4ca19d48ab0b4a68b, type: 2}
+    ActivationType: 1
+    Delay: 0
+    ShowWeapons: 0
+    ShowWeaponsDuration: 0
+    ModifySpeed: 0
+    SpeedParameterName: AttackAnimationsSpeed
+    ModifierSpeed: 1
+  SoundEntries: []

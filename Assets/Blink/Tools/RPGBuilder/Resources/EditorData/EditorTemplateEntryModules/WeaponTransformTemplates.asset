@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17e50cbe771cdfa42a0b436396114115, type: 3}
+  m_Name: WeaponTransformTemplates
+  m_EditorClassIdentifier: 
+  ModuleName: Weapon Transforms
+  EntryType: WeaponTransform
+  TypeName: WeaponTransformTemplate
+  AssetFolderName: WeaponTransformTemplates
+  AssetNameSuffix: _WEAPON_TRANSFORM
+  OldFolderName: 
+  IDFileName: 
+  OldIDFileName: 
+  DocumentationLink: https://blink.developerhub.io/rpg-builder/weapon-transform-template
+  IsSettingModule: 0
+  IsTypeModule: 1
+  IsEnabled: 1
+  ShowIconInList: 0
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: 
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 1
+  ShowFiltersButton: 0
+  databaseEntries:
+  - {fileID: 11400000, guid: 134591c59caac8c46b4b439a7a5472d7, type: 2}
+  - {fileID: 11400000, guid: 4a5d12a17d3ef7944b3a2f3517acebdc, type: 2}
+  - {fileID: 11400000, guid: a1e24b2e0903b5847b517598b6de6b41, type: 2}
+  - {fileID: 11400000, guid: 43efa8c7ce7d8eb44bd303f205066b39, type: 2}
+  - {fileID: 11400000, guid: 6cae1b1124941b246af8e5f5f2e5a27b, type: 2}
+  - {fileID: 11400000, guid: 52570e5b4f6c4d44897bdb85fb50e9e4, type: 2}
+  - {fileID: 11400000, guid: fcf9bd4d2ed4c0b4a80b8937bcb0ad09, type: 2}
+  - {fileID: 11400000, guid: 8708cdb6e8ed92d478032728da51728e, type: 2}
+  - {fileID: 11400000, guid: df5883a85492be24ea4bef3ff6ef04f0, type: 2}
+  - {fileID: 11400000, guid: 1aa69aaaea0d7e242bc913c07fa06915, type: 2}
+  - {fileID: 11400000, guid: bb0371cd4058d964cbadd49e3c0ec3a1, type: 2}

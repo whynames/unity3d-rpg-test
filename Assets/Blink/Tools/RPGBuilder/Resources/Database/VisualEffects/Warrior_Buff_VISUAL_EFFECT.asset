@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 486a667198744f64a9ff8dc9269ee83c, type: 3}
+  m_Name: Warrior_Buff_VISUAL_EFFECT
+  m_EditorClassIdentifier: 
+  ID: -1
+  entryName: Warrior_Buff
+  entryFileName: Warrior_Buff_VISUAL_EFFECT
+  entryDisplayName: 
+  entryIcon: {fileID: 0}
+  entryDescription: 
+  Prefabs:
+  - {fileID: 3115453266711517249, guid: 5cb60c5e01289c14a931606c2e3272c6, type: 3}
+  SoundTemplates: []
+  ParentSoundToPrefab: 0
+  IsDestroyedOnDeath: 1
+  IsDestroyedOnStun: 1
+  IsDestroyedOnStealth: 0
+  IsDestroyedOnStealthEnd: 0

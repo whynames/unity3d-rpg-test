@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed85266aeb7b90b4bba72cfc49d0f341, type: 3}
+  m_Name: Classes
+  m_EditorClassIdentifier: 
+  ModuleName: Classes
+  EntryType: Class
+  TypeName: RPGClass
+  AssetFolderName: Classes
+  AssetNameSuffix: _CLASS
+  IDFileName: Classes_ID
+  OldIDFileName: ClassesIDs
+  DocumentationLink: https://blink.developerhub.io/rpg-builder/classes
+  IsSettingModule: 0
+  IsTypeModule: 0
+  IsEnabled: 1
+  ShowIconInList: 1
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: ClassID
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 1
+  ShowFiltersButton: 1
+  databaseEntries:
+  - {fileID: 11400000, guid: fe8d7a0d25e4eea49b5eb01b48bdd713, type: 2}
+  - {fileID: 11400000, guid: a2b0bc487ee6ace4d8b2ba25f4b38743, type: 2}
+  - {fileID: 11400000, guid: c0584602dd336cb478684b9572b60f96, type: 2}

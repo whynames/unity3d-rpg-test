@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c69746984ed7884e9b6f8cad8bfe01b, type: 3}
+  m_Name: EquipMeleeWeapons_REQUIREMENTS
+  m_EditorClassIdentifier: 
+  ID: -1
+  entryName: EquipMeleeWeapons
+  entryFileName: EquipMeleeWeapons_REQUIREMENTS
+  entryDisplayName: 
+  entryIcon: {fileID: 0}
+  entryDescription: 
+  Requirements:
+  - Requirements:
+    - type: 15
+      condition: 0
+      AbilityID: -1
+      BonusID: -1
+      RecipeID: -1
+      ResourceID: -1
+      EffectID: -1
+      NPCID: -1
+      StatID: -1
+      FactionID: -1
+      ComboID: -1
+      RaceID: -1
+      LevelsID: -1
+      ClassID: 0
+      SpeciesID: -1
+      ItemID: -1
+      CurrencyID: -1
+      PointID: -1
+      TalentTreeID: -1
+      SkillID: -1
+      SpellbookID: -1
+      WeaponTemplateID: -1
+      EnchantmentID: -1
+      GearSetID: -1
+      GameSceneID: -1
+      QuestID: -1
+      DialogueID: -1
+      Knowledge: 0
+      State: 0
+      Comparison: 0
+      Value: 0
+      Ownership: 0
+      ItemCondition: 0
+      Progression: 0
+      Entity: 0
+      PointType: 0
+      DialogueNodeState: 0
+      EffectCondition: 0
+      AmountType: 0
+      TimeType: 0
+      TimeValue: 0
+      Amount1: 0
+      Amount2: 0
+      Float1: 0
+      Consume: 0
+      BoolBalue1: 0
+      BoolBalue2: 0
+      BoolBalue3: 0
+      IsPercent: 0
+      EffectTag: {fileID: 0}
+      EffectType: 0
+      FactionStance: {fileID: 0}
+      ItemType: {fileID: 0}
+      WeaponType: {fileID: 0}
+      WeaponSlot: {fileID: 0}
+      ArmorType: {fileID: 0}
+      ArmorSlot: {fileID: 0}
+      Gender: {fileID: 0}
+      QuestState: 0
+      DialogueNode: {fileID: 0}
+      NPCFamily: {fileID: 0}
+      Region: {fileID: 0}
+      TimeRequirement1:
+        CheckYear: 0
+        CheckMonth: 0
+        CheckWeek: 0
+        CheckDay: 0
+        CheckHour: 0
+        CheckMinute: 0
+        CheckSecond: 0
+        CheckGlobalSpeed: 0
+        Year: 0
+        Month: 0
+        Week: 0
+        Day: 0
+        Hour: 0
+        Minute: 0
+        Second: 0
+        GlobalSpeed: 0
+      TimeRequirement2:
+        CheckYear: 0
+        CheckMonth: 0
+        CheckWeek: 0
+        CheckDay: 0
+        CheckHour: 0
+        CheckMinute: 0
+        CheckSecond: 0
+        CheckGlobalSpeed: 0
+        Year: 0
+        Month: 0
+        Week: 0
+        Day: 0
+        Hour: 0
+        Minute: 0
+        Second: 0
+        GlobalSpeed: 0
+    checkCount: 0
+    requiredCount: 0

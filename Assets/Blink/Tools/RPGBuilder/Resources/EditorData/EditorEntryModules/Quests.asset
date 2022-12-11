@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d667b19345409246a491e52e859d590, type: 3}
+  m_Name: Quests
+  m_EditorClassIdentifier: 
+  ModuleName: Quests
+  EntryType: Quest
+  TypeName: RPGQuest
+  AssetFolderName: Quests
+  AssetNameSuffix: _QUEST
+  IDFileName: Quests_ID
+  OldIDFileName: QuestsIDs
+  DocumentationLink: https://blink.developerhub.io/rpg-builder/quest
+  IsSettingModule: 0
+  IsTypeModule: 0
+  IsEnabled: 1
+  ShowIconInList: 0
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: QuestID
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 1
+  ShowFiltersButton: 1
+  databaseEntries:
+  - {fileID: 11400000, guid: 193c0f63f2d90dc43a3e5904d185a4cf, type: 2}
+  - {fileID: 11400000, guid: fe82eb22d6a03864b964c1fa6dd512cc, type: 2}
+  - {fileID: 11400000, guid: 7a36e99a05f0eca458b514cf4e914c94, type: 2}
+  - {fileID: 11400000, guid: 31227b8041f8d664d843782ad0bd9d6d, type: 2}
+  - {fileID: 11400000, guid: fd3523ea543474243acd5926d65671db, type: 2}
+  - {fileID: 11400000, guid: 1018dcea7bd26fa448fb2a020ddd96a8, type: 2}
+  - {fileID: 11400000, guid: 4e2bb8f56381f914f8b7dd8ff69435ab, type: 2}

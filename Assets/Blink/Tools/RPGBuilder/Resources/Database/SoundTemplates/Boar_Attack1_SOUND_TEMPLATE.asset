@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4061e93d049d009418b1bd51d244f67d, type: 3}
+  m_Name: Boar_Attack1_SOUND_TEMPLATE
+  m_EditorClassIdentifier: 
+  ID: -1
+  entryName: Boar_Attack1
+  entryFileName: Boar_Attack1_SOUND_TEMPLATE
+  entryDisplayName: 
+  entryIcon: {fileID: 0}
+  entryDescription: 
+  Sounds:
+  - {fileID: 8300000, guid: 8ecc5e11876334ecb9fe41a261426ee1, type: 3}
+  MixerGroup: {fileID: 0}
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  Loop: 0
+  Priority: {x: 128, y: 128}
+  Volume: {x: 0.79999995, y: 1}
+  Pitch: {x: 0.84, y: 1.4}
+  StereoPan: {x: -0.049999997, y: 0.26}
+  SpatialBlend: {x: 1, y: 1}
+  ReverbZoneMix: {x: 1, y: 1}
+  rolloffMode: 1
+  DopplerLevel: {x: 1, y: 1}
+  Spread: {x: 0, y: 0}
+  Distance: {x: 1, y: 75}

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2723ceca53d48ea4da3042851f8fe64c, type: 3}
+  m_Name: AnimationTemplates
+  m_EditorClassIdentifier: 
+  ModuleName: Animations
+  EntryType: Animation
+  TypeName: AnimationTemplate
+  AssetFolderName: AnimationTemplates
+  AssetNameSuffix: _ANIMATION
+  OldFolderName: 
+  IDFileName: 
+  OldIDFileName: 
+  DocumentationLink: https://blink.developerhub.io/rpg-builder/animation-templates
+  IsSettingModule: 0
+  IsTypeModule: 1
+  IsEnabled: 1
+  ShowIconInList: 0
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: 
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 1
+  ShowFiltersButton: 0
+  databaseEntries:
+  - {fileID: 11400000, guid: 6c3e3c7f474255e4ca19d48ab0b4a68b, type: 2}
+  - {fileID: 11400000, guid: d606733958abc0949963bc6f914673a1, type: 2}
+  - {fileID: 11400000, guid: e4d5de010a1451943ac7fea19a4e495c, type: 2}
+  - {fileID: 11400000, guid: 0ba9a340503925c45b577ca5c67b5f4b, type: 2}
+  - {fileID: 11400000, guid: ac92585870d5e5942b7300a0b8e4f379, type: 2}
+  - {fileID: 11400000, guid: 94e12aa639410f84fa184c57dc022205, type: 2}

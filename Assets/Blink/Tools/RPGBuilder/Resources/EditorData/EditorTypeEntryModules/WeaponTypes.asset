@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d72f24c4069e41b4d9d6637bca5f5009, type: 3}
+  m_Name: WeaponTypes
+  m_EditorClassIdentifier: 
+  ModuleName: Weapon Types
+  EntryType: WeaponTypes
+  TypeName: RPGBWeaponType
+  AssetFolderName: Types
+  AssetNameSuffix: _WEAPON_TYPE
+  OldFolderName: 
+  IDFileName: 
+  OldIDFileName: 
+  DocumentationLink: 
+  IsSettingModule: 0
+  IsTypeModule: 1
+  IsEnabled: 1
+  ShowIconInList: 0
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: 
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 0
+  ShowFiltersButton: 0
+  databaseEntries:
+  - {fileID: 11400000, guid: a03715fd35944e7468d80e9cb494fccb, type: 2}
+  - {fileID: 11400000, guid: 27b112dd9f1ae2143b589909463ca2ad, type: 2}
+  - {fileID: 11400000, guid: bc5539388a78af742a7a5ff4b4821b7f, type: 2}
+  - {fileID: 11400000, guid: ca68615f836e37946b45b13459e16b28, type: 2}
+  - {fileID: 11400000, guid: def3081bf8d92aa4386bce5872d69fbc, type: 2}

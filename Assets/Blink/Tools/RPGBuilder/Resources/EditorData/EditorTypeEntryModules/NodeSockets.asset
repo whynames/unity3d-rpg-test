@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 502f256e381546d4295e0ef4912c1909, type: 3}
+  m_Name: NodeSockets
+  m_EditorClassIdentifier: 
+  ModuleName: Node Sockets
+  EntryType: NodeSockets
+  TypeName: RPGBNodeSocket
+  AssetFolderName: Types
+  AssetNameSuffix: _NODE_SOCKET
+  OldFolderName: 
+  IDFileName: 
+  OldIDFileName: 
+  DocumentationLink: 
+  IsSettingModule: 0
+  IsTypeModule: 1
+  IsEnabled: 1
+  ShowIconInList: 0
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: 
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 0
+  ShowFiltersButton: 0
+  databaseEntries:
+  - {fileID: 11400000, guid: ce9910f9467705446a02fec763985733, type: 2}
+  - {fileID: 11400000, guid: 9d901115b9eaf8044a52a03607af3d2f, type: 2}
+  - {fileID: 11400000, guid: 4a517de52dcd19c49be72a961ec2ec8b, type: 2}

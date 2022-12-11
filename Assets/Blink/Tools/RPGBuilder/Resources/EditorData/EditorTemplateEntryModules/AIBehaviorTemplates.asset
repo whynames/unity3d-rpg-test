@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41ef4f9865b82c348a05c7facd90c145, type: 3}
+  m_Name: AIBehaviorTemplates
+  m_EditorClassIdentifier: 
+  ModuleName: Behaviors
+  EntryType: Behavior
+  TypeName: BehaviorTemplate
+  AssetFolderName: BehaviorTemplates
+  AssetNameSuffix: _BEHAVIOR
+  OldFolderName: 
+  IDFileName: 
+  OldIDFileName: 
+  DocumentationLink: https://blink.developerhub.io/rpg-builder/AI-Behaviorss
+  IsSettingModule: 0
+  IsTypeModule: 1
+  IsEnabled: 1
+  ShowIconInList: 0
+  ExportEnabled: 1
+  ImportEnabled: 1
+  EntryAttributeName: 
+  ShowEntrySearchBar: 1
+  ShowSaveButton: 1
+  ShowNewButton: 1
+  ShowDuplicateButton: 1
+  ShowDeleteButton: 1
+  ShowDocumentationButton: 1
+  ShowFiltersButton: 0
+  databaseEntries:
+  - {fileID: 11400000, guid: e4e9612855d1f6c4bbe64762972535df, type: 2}
+  - {fileID: 11400000, guid: 52d8858cd1f46b4449edb9d608b120e8, type: 2}
+  - {fileID: 11400000, guid: 52fad2c5fc077684a9419395b6387110, type: 2}
+  - {fileID: 11400000, guid: 8bf1664c4e251544684d22a6325aa95d, type: 2}
+  - {fileID: 11400000, guid: d6d808120c700304fa603de3a534002c, type: 2}
+  - {fileID: 11400000, guid: 4e647d760267b594e92e387f8dfa1429, type: 2}
